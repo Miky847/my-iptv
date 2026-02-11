@@ -1,0 +1,37 @@
+[
+  {
+    "name": "VTV1 HD (Thời sự)",
+    "url": "https://vtv1-vtvgo.akamaized.net/data/vtv1_hd.m3u8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/VTV1_logo_2013.svg"
+  },
+  {
+    "name": "VTV3 HD (Giải trí)",
+    "url": "https://vtv3-vtvgo.akamaized.net/data/vtv3_hd.m3u8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/VTV3_logo_2013.png"
+  },
+  {
+    "name": "BBC World News",
+    "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_world_news/t=3840/v=1/master.m3u8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/BBC_World_News_2019.svg"
+  },
+  {
+    "name": "NHK World Japan (English)",
+    "url": "https://nhkwldx-i.akamaihd.net/hls/live/2023588/nhkwldx/master.m3u8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/NHK_World_logo.svg"
+  },
+  {
+    "name": "France 24 English",
+    "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_tv.m3u8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/France_24_logo.svg"
+  },
+  {
+    "name": "CCTV News (CGTN)",
+    "url": "https://news.cgtn.com/resource/live/english/system.m3u8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/CCTV-13_Logo.png"
+  },
+  {
+    "name": "Deutsche Welle (DW English)",
+    "url": "https://dwamdfe.akamaized.net/hls/live/2003219/dwohlive/index.m3u8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Deutsche_Welle_logo.svg"
+  }
+]
