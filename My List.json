@@ -41,7 +41,7 @@
           "display": "thumbnail-only",
           "enable_detail": false,
           "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/330px-France_24_logo_%282013%29.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "France 24", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://www.youtube.com/watch?v=Ap-UM1O9RBU" }] }] }] }]
+          "sources": [{ "name": "Server 1", "contents": [{ "name": "France 24", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8" }] }] }] }]
         },
       
         {
