@@ -1,27 +1,28 @@
 {
-  "id": "zzz-nguonc-nhk-test",
-  "name": "NHK World Test",
-  "url": "https://media.hth4nh.eu.org/nguonc",
+  "id": "zzz-kkphim",
+  "name": "Zzz - KKPhim",
+  "url": "https://media.hth4nh.eu.org/kkphim",
   "color": "#004444",
   "image": {
-    "url": "https://raw.githubusercontent.com/Miky847/Logo/main/WorldNewLogo.jpg",
+    "url": "https://media.hth4nh.eu.org/static/img/logo-kk-2.png",
     "type": "cover"
   },
-  "description": "Bản test cấu trúc chuẩn Nguon C cho NHK",
+  "description": "KKPHIM.COM - Cung cấp dữ liệu phim trực tuyến Phụ Đề - Thuyết Minh - Lồng Tiếng cập nhật mới nhất MIỄN PHÍ và VĨNH VIỄN.",
   "share": {
-    "url": "https://media.hth4nh.eu.org/nguonc"
+    "url": "https://media.hth4nh.eu.org/kkphim"
   },
   "notice": {
     "closeable": true,
     "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
     "id": "notice",
-    "text": "NHK Live Testing"
+    "link": "https://t.me/zzz_monplayer",
+    "text": "Zzz"
   },
   "sorts": [
     {
       "text": "Mới nhất",
       "type": "radio",
-      "url": "https://media.hth4nh.eu.org/nguonc/sort/tab/all"
+      "url": "https://media.hth4nh.eu.org/kkphim/sort/tab/all"
     }
   ],
   "grid_number": 3,
@@ -62,10 +63,9 @@
       ]
     }
   ],
-  "groups": [],
   "load_more": {
     "remote_data": {
-      "url": "https://media.hth4nh.eu.org/nguonc/sort/tab/all",
+      "url": "https://media.hth4nh.eu.org/kkphim/sort/tab/all",
       "external": false
     },
     "paging": {
