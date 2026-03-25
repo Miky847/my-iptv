@@ -6,7 +6,7 @@
   "grid_number": 3,
   "image": {
     "type": "cover",
-    "url": "https://i.imgur.com/8N4N4N4.png"
+    "url": "https://www.clipartmax.com/png/middle/113-1137375_emoji-stickers-smileys-smiley-faces-happy-face-emoticon-s%C3%BC%C3%9Fer-smiley.png"
   },
   "groups": [
     {
@@ -17,13 +17,9 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "bbc-news",
-          "name": "BBC World News",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_World_News_2019.svg/1200px-BBC_World_News_2019.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "BBC", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://gnm-bbc-bbcworldnews-v-it.local.fptplay.net/playlist.m3u8" }] }] }] }]
+           "name": "BBC World News",
+    "tvg_id": "bbcworldnews",
+    "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd"
         },
         {
           "id": "cna-news",
@@ -71,22 +67,15 @@
           "sources": [{ "name": "Server 1", "contents": [{ "name": "DW", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://dwamdstream-lh.akamaihd.net/i/dwamd_en@311910/master.m3u8" }] }] }] }]
         },
         {
-          "id": "vtv1-hd",
-          "name": "VTV1 HD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" },
-          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV1", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2" }] }] }] }]
+          "name": "VTV1",
+          "tvg_id": "vtv1hd",
+          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
+          "catchup": { "days": "2", "source": "http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}" }
         },
         {
-          "id": "vtv2-hd",
-          "name": "VTV2 HD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" },
-          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV2", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8" }] }] }] }]
+          "name": "VTV2",
+          "tvg_id": "vtv2hd",
+          "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8"
         },
         {
           "id": "vtv3-hd",
