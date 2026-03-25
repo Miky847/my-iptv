@@ -1,0 +1,293 @@
+{
+  "id": "zzz",
+  "name": "Zzz",
+  "url": "https://media.hth4nh.eu.org/home",
+  "color": "#000000",
+  "image": {
+    "url": "https://media.hth4nh.eu.org/static/img/logo-zzz.png",
+    "display": "cover"
+  },
+  "description": "Zzz",
+  "share": {
+    "url": "https://media.hth4nh.eu.org/home"
+  },
+  "notice": {
+    "closeable": true,
+    "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
+    "id": "notice",
+    "link": "https://t.me/zzz_monplayer",
+    "text": "Zzz"
+  },
+  "groups": [
+    {
+      "id": "film",
+      "name": "Xem phim thả ga, không lo quảng cáo",
+      "display": "horizontal",
+      "grid_number": 1,
+      "groups": [
+        {
+          "id": "zzz-kkphim",
+          "name": "KKPhim",
+          "display": "text-below",
+          "image": {
+            "url": "https://media.hth4nh.eu.org/static/img/logo-kk-2.png",
+            "display": "cover",
+            "width": 80,
+            "height": 80
+          },
+          "remote_data": {
+            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fmedia.hth4nh.eu.org%2Fkkphim&type=provider",
+            "external": true
+          }
+        },
+        {
+          "id": "zzz-ophim",
+          "name": "Ophim",
+          "display": "text-below",
+          "image": {
+            "url": "https://media.hth4nh.eu.org/static/img/logo-ophim.png",
+            "display": "cover",
+            "width": 80,
+            "height": 80
+          },
+          "remote_data": {
+            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fmedia.hth4nh.eu.org%2Fophim&type=provider",
+            "external": true
+          }
+        },
+        {
+          "id": "zzz-nguonc",
+          "name": "NguonC",
+          "display": "text-below",
+          "image": {
+            "url": "https://media.hth4nh.eu.org/static/img/logo-nguonc.png",
+            "display": "cover",
+            "width": 80,
+            "height": 80
+          },
+          "remote_data": {
+            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fmedia.hth4nh.eu.org%2Fnguonc&type=provider",
+            "external": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "music-vn",
+      "name": "Nhạc Việt",
+      "display": "horizontal",
+      "grid_number": 1,
+      "channels": [
+        {
+          "id": "10443",
+          "name": "V-POP",
+          "display": "text-below",
+          "image": {
+            "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/8/e/4/08e4104877db6c9a77d6fc42f0a17a8b.jpg",
+            "display": "cover",
+            "width": 240,
+            "height": 240
+          },
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "10443",
+              "name": "",
+              "contents": [
+                {
+                  "id": "10443",
+                  "name": "",
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "10443",
+                      "name": "Nhạc Việt thời nay, rất \"hay ho\" và \"này nọ\"!",
+                      "stream_links": [
+                        {
+                          "id": "10443",
+                          "default": true,
+                          "url": "https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8",
+                          "name": "Mặc định",
+                          "type": "hls"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10568",
+          "name": "Chạm",
+          "display": "text-below",
+          "image": {
+            "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/5/4/0/7540c1a177ce70af53aa417cba1462ed.jpg",
+            "display": "cover",
+            "width": 240,
+            "height": 240
+          },
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "10568",
+              "name": "",
+              "contents": [
+                {
+                  "id": "10568",
+                  "name": "",
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "10568",
+                      "name": "Chạm - Nơi chia sẻ cảm xúc qua âm nhạc.",
+                      "stream_links": [
+                        {
+                          "id": "10568",
+                          "default": true,
+                          "url": "https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8",
+                          "name": "Mặc định",
+                          "type": "hls"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10449",
+          "name": "Bolero",
+          "display": "text-below",
+          "image": {
+            "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/8/e/3/98e374cc9603ce9894782f4b36f3cba9.jpg",
+            "display": "cover",
+            "width": 240,
+            "height": 240
+          },
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "10449",
+              "name": "",
+              "contents": [
+                {
+                  "id": "10449",
+                  "name": "",
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "10449",
+                      "name": "Dành tặng bạn, những tuyệt phẩm nhạc trữ tình và bolero hay nhất mọi thời đại.",
+                      "stream_links": [
+                        {
+                          "id": "10449",
+                          "default": true,
+                          "url": "https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace800d4453d1b6454/index.m3u8",
+                          "name": "Mặc định",
+                          "type": "hls"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10560",
+          "name": "Acoustic",
+          "display": "text-below",
+          "image": {
+            "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/2/d/c/42dc85df71a175bf2e826b08dd0084af.jpg",
+            "display": "cover",
+            "width": 240,
+            "height": 240
+          },
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "10560",
+              "name": "",
+              "contents": [
+                {
+                  "id": "10560",
+                  "name": "",
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "10560",
+                      "name": "Nếu đang tìm chút mộc mạc, hãy nghe Acoustic playlist mà Zzz đã chuẩn bị cho bạn.",
+                      "stream_links": [
+                        {
+                          "id": "10560",
+                          "default": true,
+                          "url": "https://multi-playlist-zmp3.zmdcdn.me/AiekixzmitQ/zhls/playback-realtime/9b7b55d7699280ccd983/index.m3u8",
+                          "name": "Mặc định",
+                          "type": "hls"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10518",
+          "name": "Rap Việt",
+          "display": "text-below",
+          "image": {
+            "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/5/2/4/f5242b2f63e785bb1ce8256a1b976007.jpg",
+            "display": "cover",
+            "width": 240,
+            "height": 240
+          },
+          "type": "single",
+          "enable_detail": false,
+          "sources": [
+            {
+              "id": "10518",
+              "name": "",
+              "contents": [
+                {
+                  "id": "10518",
+                  "name": "",
+                  "grid_number": 1,
+                  "streams": [
+                    {
+                      "id": "10518",
+                      "name": "Ở đây có rap Việt mới nhất, chất nhất cho bạn cháy hết mình!",
+                      "stream_links": [
+                        {
+                          "id": "10518",
+                          "default": true,
+                          "url": "https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015d3d18d4468d09/index.m3u8",
+                          "name": "Mặc định",
+                          "type": "hls"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10556",
+          "name": "Indie",
+          "display": "text-below",
+          "image": {
+            "url": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/5/5/b/955b98868b8b29e1e782fc0913d857d2.jpg",
+            "display": "cover",
+            "width": 2
