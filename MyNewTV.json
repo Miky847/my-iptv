@@ -1,0 +1,61 @@
+{
+  "id": "my_list_12",
+  "name": "My List",
+  "url": "https://raw.githubusercontent.com/Miky847/my-iptv/main/MyTV.json",
+  "color": "#1a73e8",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg"
+  },
+  "channels": [
+    {
+      "id": "test",
+      "name": "VTV1",
+      "type": "single",
+      "display": "thumbnail-only",
+      "enable_detail": false,
+      "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png" },
+      "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV1", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/VTV1.m3u8" }] }] }] }]
+    },
+    {
+      "id": "vtv-can-tho",
+      "name": "VTV Cần Thơ",
+      "type": "single",
+      "display": "thumbnail-only",
+      "enable_detail": false,
+      "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV%20Cantho.png" },
+      "sources": [{ "name": "Server", "contents": [{ "name": "VTVCT", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtvct_abr.smil/chunklist.m3u8" }] }] }] }]
+    },
+    {
+      "id": "bbc-world-news",
+      "name": "BBC World News",
+      "type": "single",
+      "display": "thumbnail-only",
+      "enable_detail": false,
+      "image": { "url": "https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg" },
+      "sources": [
+        {
+          "name": "Server 1",
+          "contents": [
+            {
+              "name": "BBC World",
+              "streams": [
+                {
+                  "name": "DASH",
+                  "stream_links": [
+                    {
+                      "type": "dash",
+                      "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd",
+                      "request_headers": [{ "key": "User-Agent", "value": "Dalvik/2.1.0" }]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
