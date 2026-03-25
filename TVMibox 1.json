@@ -1,12 +1,12 @@
 {
-  "id": "MI BOX TV",
+  "id": "MI BOX TV 1",
   "url": "https://tinyurl.com/thapcam",
-  "name": "MI BOX TV",
+  "name": "MI BOX TV 1",
   "color": "#1cb57a",
   "grid_number": 3,
   "image": {
     "type": "cover",
-    "url": "https://tctv.pro/10cam-logo-app-light.jpg"
+    "url": "https://github.com/Miky847/Logo/blob/main/WorldNewLogo.jpg"
   },
   "groups": [
     {
