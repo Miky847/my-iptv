@@ -1,0 +1,144 @@
+{
+  "id": "my_list_12",
+  "url": "",
+  "name": "My List",
+  "color": "#1a73e8",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia#/media/File:Wikipedia-logo-v2.svg"
+  },
+  "groups": [
+    {
+      "id": "group_my_list",
+      "name": "📺 Danh Sách Của Tôi",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "test",
+          "name": "test",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png" },
+          "sources": [{ "name": "Link M3U", "contents": [{ "name": "test", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/VTV1.m3u8" }] }] }] }]
+        },
+        {
+          "id": "NHK-NEWS",
+          "name": "NHK",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png" },
+          "sources": [{ "name": "Server 1", "contents": [{ "name": "NHK", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8" }] }] }] }]
+        },
+        {
+          "id": "cna-news",
+          "name": "CNA",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/960px-CNA_new_logo.svg.png" },
+          "sources": [{ "name": "Server 1", "contents": [{ "name": "CNA", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112" }] }] }] }]
+        },
+        {
+          "id": "france24-news",
+          "name": "France 24",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/330px-France_24_logo_%282013%29.svg.png" },
+          "sources": [{ "name": "Server 1", "contents": [{ "name": "France 24", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8" }] }] }] }]
+        },
+        {
+          "id": "vtv1-hd",
+          "name": "VTV1 HD",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png" },
+          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV1", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2" }] }] }] }]
+        },
+        {
+          "id": "vtv2-hd",
+          "name": "VTV2 HD",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV2.png" },
+          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV2", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV2HD/live_hls_avc/index.m3u8" }] }] }] }]
+        },
+        {
+          "id": "vtv3-hd",
+          "name": "VTV3 HD",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV3.png" },
+          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV3", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8" }] }] }] }]
+        },
+        {
+          "id": "vtv4-hd",
+          "name": "VTV4 HD",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV4.png" },
+          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV4", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV4HD/live_hls_avc/index.m3u8", "request_headers": [{"key": "User-Agent", "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"}] }] }] }] }]
+        },
+        {
+          "id": "vtv5-hd",
+          "name": "VTV5 HD",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV5.png" },
+          "sources": [{ "name": "Server", "contents": [{ "name": "VTV5", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8" }] }] }] }]
+        },
+        {
+          "id": "vtv-cantho",
+          "name": "VTV Cần Thơ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV%20Cantho.png" },
+          "sources": [{ "name": "Server", "contents": [{ "name": "VTVCT", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtvct_abr.smil/chunklist.m3u8" }] }] }] }]
+        },
+        {
+          "id": "bbc-world-news",
+          "name": "BBC World News",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg" },
+          "sources": [
+            {
+              "name": "Server 1",
+              "contents": [
+                {
+                  "name": "BBC World",
+                  "streams": [
+                    {
+                      "name": "DASH",
+                      "stream_links": [
+                        {
+                          "type": "dash",
+                          "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd",
+                          "request_headers": [{ "key": "User-Agent", "value": "Dalvik/2.1.0" }],
+                          "license_type": "clearkey",
+                          "license_key": "c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
