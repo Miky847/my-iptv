@@ -6,7 +6,7 @@
   "grid_number": 3,
   "image": {
     "type": "cover",
-    "url": "https://i.imgur.com/8N4N4N4.png"
+    "url": "https://en.wikipedia.org/wiki/Wikipedia#/media/File:Wikipedia-logo-v2.svg"
   },
   "groups": [
     {
@@ -16,15 +16,7 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "bbc-news",
-          "name": "BBC World News",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_World_News_2019.svg/1200px-BBC_World_News_2019.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "BBC", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://gnm-bbc-bbcworldnews-v-it.local.fptplay.net/playlist.m3u8" }] }] }] }]
-        },
+     
         {
           "id": "cna-news",
           "name": "CNA",
@@ -43,33 +35,7 @@
           "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/France_24_logo.svg/1200px-France_24_logo.svg.png" },
           "sources": [{ "name": "Server 1", "contents": [{ "name": "France 24", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8" }] }] }] }]
         },
-        {
-          "id": "nhk-news",
-          "name": "NHK World",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NHK_World_logo.svg/1200px-NHK_World_logo.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "NHK", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/master.m3u8" }] }] }] }]
-        },
-        {
-          "id": "aljazeera-news",
-          "name": "Al Jazeera English",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_English_logo.svg/1200px-Al_Jazeera_English_logo.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "AJE", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8" }] }] }] }]
-        },
-        {
-          "id": "dw-news",
-          "name": "DW",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Deutsche_Welle_logo.svg/1200px-Deutsche_Welle_logo.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "DW", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://dwamdstream-lh.akamaihd.net/i/dwamd_en@311910/master.m3u8" }] }] }] }]
-        },
+      
         {
           "id": "vtv1-hd",
           "name": "VTV1 HD",
@@ -86,7 +52,7 @@
           "display": "thumbnail-only",
           "enable_detail": false,
           "image": { "url": "https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" },
-          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV2", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8" }] }] }] }]
+          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV2", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV2HD/live_hls_avc/index.m3u8" }] }] }] }]
         },
         {
           "id": "vtv3-hd",
@@ -104,7 +70,7 @@
           "display": "thumbnail-only",
           "enable_detail": false,
           "image": { "url": "https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" },
-          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV4", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8", "request_headers": [{"key": "User-Agent", "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"}] }] }] }] }]
+          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV4", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV4HD/live_hls_avc/index.m3u8", "request_headers": [{"key": "User-Agent", "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"}] }] }] }] }]
         },
         {
           "id": "vtv5-hd",
@@ -113,7 +79,7 @@
           "display": "thumbnail-only",
           "enable_detail": false,
           "image": { "url": "https://vtv1.com.vn/vtv5.png" },
-          "sources": [{ "name": "Server", "contents": [{ "name": "VTV5", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtv5hd_abr.smil/chunklist.m3u8" }] }] }] }]
+          "sources": [{ "name": "Server", "contents": [{ "name": "VTV5", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8" }] }] }] }]
         },
         {
           "id": "vtv-cantho",
