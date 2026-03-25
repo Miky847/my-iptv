@@ -1,10 +1,10 @@
 {
   "id": "My-New-TV",
   "name": "Test NHK Live",
-  "url": "https://media.hth4nh.eu.org/kkphim",
+  "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/MyNewTV.json",
   "color": "#004444",
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png",
+    "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/WorldNewLogo.jpg",
     "type": "cover"
   },
   "description": "Test luồng trực tiếp NHK trên MiBox",
