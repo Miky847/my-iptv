@@ -63,6 +63,50 @@
       ]
     }
   ],
+  "groups": [
+    {
+      "id": "featured",
+      "name": "Nổi bật",
+      "display": "slider",
+      "channels": [
+        {
+          "id": "NHK-NEWS",
+          "name": "NHK WORLD-JAPAN",
+          "description": "NHK World Japan Live Stream",
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png",
+            "type": "cover",
+            "width": 480,
+            "height": 640
+          },
+          "type": "single",
+          "display": "text-below",
+          "enable_detail": false,
+          "sources": [
+            {
+              "name": "Server 1",
+              "contents": [
+                {
+                  "name": "NHK",
+                  "streams": [
+                    {
+                      "name": "HLS",
+                      "stream_links": [
+                        {
+                          "type": "hls",
+                          "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "load_more": {
     "remote_data": {
       "url": "https://media.hth4nh.eu.org/kkphim/sort/tab/all",
