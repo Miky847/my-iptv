@@ -1,0 +1,236 @@
+{
+  "id": "zzz-kkphim-minimal-test",
+  "name": "Zzz - KKPhim (Test MiBox)",
+  "url": "https://media.hth4nh.eu.org/kkphim",
+  "color": "#004444",
+  "image": {
+    "url": "https://media.hth4nh.eu.org/static/img/logo-kk-2.png",
+    "type": "cover"
+  },
+  "description": "Bản test tối giản với 2 phim để thử nghiệm trên Android TV MiBox.",
+  "share": {
+    "url": "https://media.hth4nh.eu.org/kkphim"
+  },
+  "notice": {
+    "closeable": true,
+    "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
+    "id": "notice",
+    "link": "https://t.me/zzz_monplayer",
+    "text": "Zzz Minimal Test"
+  },
+  "sorts": [
+    {
+      "text": "Mới nhất",
+      "type": "radio",
+      "url": "https://media.hth4nh.eu.org/kkphim/sort/tab/all"
+    }
+  ],
+  "grid_number": 3,
+  "channels": [
+    {
+      "id": "xin-chao-1983",
+      "name": "Xin Chào 1983",
+      "description": "Ở tuổi 36, Hạ Hiểu Lan – nữ quản lý cấp cao – mất tất cả sau khi công ty...",
+      "image": {
+        "url": "https://phimimg.com/upload/vod/20260319-1/3e5edb52e9586f68653000deeda662b0.jpg",
+        "type": "cover",
+        "width": 480,
+        "height": 640
+      },
+      "type": "playlist",
+      "display": "text-below",
+      "label": {
+        "text": "Tập 20",
+        "position": "top-left",
+        "color": "#35ba8b",
+        "text_color": "#ffffff"
+      },
+      "remote_data": {
+        "url": "https://media.hth4nh.eu.org/kkphim/detail/xin-chao-1983"
+      },
+      "enable_detail": true
+    },
+    {
+      "id": "thu-thach-than-tuong",
+      "name": "Thử Thách Thần Tượng",
+      "description": "Thử Thách Thần Tượng - RUNNING MAN là một show truyền hình hài hước thực tế...",
+      "image": {
+        "url": "https://p21-ad-sg.ibyteimg.com/obj/ad-site-i18n-sg/202503175d0d738fd340d1d5428e9d74",
+        "type": "cover",
+        "width": 480,
+        "height": 640
+      },
+      "type": "playlist",
+      "display": "text-below",
+      "label": {
+        "text": "Tập 795",
+        "position": "top-left",
+        "color": "#35ba8b",
+        "text_color": "#ffffff"
+      },
+      "remote_data": {
+        "url": "https://media.hth4nh.eu.org/kkphim/detail/thu-thach-than-tuong"
+      },
+      "enable_detail": true
+    }
+  ],
+  "load_more": {
+    "remote_data": {
+      "url": "https://media.hth4nh.eu.org/kkphim/sort/tab/all",
+      "external": false
+    },
+    "paging": {
+      "page_key": "p",
+      "size_key": "s"
+    },
+    "pageInfo": {
+      "current_page": 1,
+      "total": 2,
+      "per_page": 2,
+      "last_page": 1
+    }
+  },
+  "groups": [
+    {
+      "id": "featured",
+      "name": "Nổi bật",
+      "display": "slider",
+      "channels": [
+        {
+          "id": "xin-chao-1983",
+          "name": "Xin Chào 1983",
+          "description": "Ở tuổi 36, Hạ Hiểu Lan – nữ quản lý cấp cao – mất tất cả sau khi công ty...",
+          "image": {
+            "url": "https://phimimg.com/upload/vod/20260319-1/3e5edb52e9586f68653000deeda662b0.jpg",
+            "type": "cover",
+            "width": 480,
+            "height": 640
+          },
+          "type": "playlist",
+          "display": "text-below",
+          "label": {
+            "text": "Tập 20",
+            "position": "top-left",
+            "color": "#35ba8b",
+            "text_color": "#ffffff"
+          },
+          "remote_data": {
+            "url": "https://media.hth4nh.eu.org/kkphim/detail/xin-chao-1983"
+          },
+          "enable_detail": true
+        },
+        {
+          "id": "thu-thach-than-tuong",
+          "name": "Thử Thách Thần Tượng",
+          "description": "Thử Thách Thần Tượng - RUNNING MAN là một show truyền hình hài hước thực tế...",
+          "image": {
+            "url": "https://p21-ad-sg.ibyteimg.com/obj/ad-site-i18n-sg/202503175d0d738fd340d1d5428e9d74",
+            "type": "cover",
+            "width": 480,
+            "height": 640
+          },
+          "type": "playlist",
+          "display": "text-below",
+          "label": {
+            "text": "Tập 795",
+            "position": "top-left",
+            "color": "#35ba8b",
+            "text_color": "#ffffff"
+          },
+          "remote_data": {
+            "url": "https://media.hth4nh.eu.org/kkphim/detail/thu-thach-than-tuong"
+          },
+          "enable_detail": true
+        }
+      ]
+    },
+    {
+      "id": "phim-bo",
+      "name": "Phim Bộ",
+      "display": "horizontal",
+      "grid_number": 1,
+      "channels": [
+        {
+          "id": "xin-chao-1983",
+          "name": "Xin Chào 1983",
+          "description": "Ở tuổi 36, Hạ Hiểu Lan – nữ quản lý cấp cao – mất tất cả sau khi công ty...",
+          "image": {
+            "url": "https://phimimg.com/upload/vod/20260319-1/3e5edb52e9586f68653000deeda662b0.jpg",
+            "type": "cover",
+            "width": 480,
+            "height": 640
+          },
+          "type": "playlist",
+          "display": "text-below",
+          "label": {
+            "text": "Tập 20",
+            "position": "top-left",
+            "color": "#35ba8b",
+            "text_color": "#ffffff"
+          },
+          "remote_data": {
+            "url": "https://media.hth4nh.eu.org/kkphim/detail/xin-chao-1983"
+          },
+          "enable_detail": true
+        },
+        {
+          "id": "thu-thach-than-tuong",
+          "name": "Thử Thách Thần Tượng",
+          "description": "Thử Thách Thần Tượng - RUNNING MAN là một show truyền hình hài hước thực tế...",
+          "image": {
+            "url": "https://p21-ad-sg.ibyteimg.com/obj/ad-site-i18n-sg/202503175d0d738fd340d1d5428e9d74",
+            "type": "cover",
+            "width": 480,
+            "height": 640
+          },
+          "type": "playlist",
+          "display": "text-below",
+          "label": {
+            "text": "Tập 795",
+            "position": "top-left",
+            "color": "#35ba8b",
+            "text_color": "#ffffff"
+          },
+          "remote_data": {
+            "url": "https://media.hth4nh.eu.org/kkphim/detail/thu-thach-than-tuong"
+          },
+          "enable_detail": true
+        }
+      ],
+      "load_more": {
+        "remote_data": {
+          "url": "https://media.hth4nh.eu.org/kkphim/sort/tab/phim-bo",
+          "external": false
+        },
+        "paging": {
+          "page_key": "p",
+          "size_key": "s"
+        },
+        "pageInfo": {
+          "current_page": 1,
+          "total": 2,
+          "per_page": 2,
+          "last_page": 1
+        }
+      },
+      "remote_data": {
+        "url": "https://media.hth4nh.eu.org/kkphim/sort/tab/phim-bo",
+        "external": false
+      }
+    }
+  ],
+  "search": {
+    "url": "https://media.hth4nh.eu.org/kkphim/search",
+    "suggest_url": "https://media.hth4nh.eu.org/kkphim/search/suggest",
+    "search_key": "q",
+    "paging": {
+      "page_key": "p",
+      "size_key": "s"
+    }
+  },
+  "option": {
+    "save_history": true,
+    "save_search_history": true,
+    "save_wishlist": true
+  }
+}
