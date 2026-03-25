@@ -1,0 +1,729 @@
+{
+  "id": "thapcam",
+  "url": "https://tinyurl.com/thapcam",
+  "name": "Thập Cẩm Fake",
+  "color": "#1cb57a",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://tctv.pro/10cam-logo-app-light.jpg"
+  },
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 Live",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-0e82ab3724db",
+          "name": "⚽ Elise Mertens/Zhang Shuai vs Hunter S / Pegula J | 04:20 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0e82ab3724db.webp?v=1774478070",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c81d9cee0b",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-c81d9cee0b",
+                  "name": "Elise Mertens/Zhang Shuai vs Hunter S / Pegula J",
+                  "streams": [
+                    {
+                      "id": "st-c81d9cee0b",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c6d8b7a005",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/4e931283c6e6d64663a524a69df0aaa3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/elise-mertenszhang-shuai-vs-hunter-s--pegula-j-0420-26-03-2026/318066"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTA Miami, USA Women Doubles",
+            "team_a": "Elise Mertens/Zhang Shuai",
+            "team_b": "Hunter S / Pegula J",
+            "logo_a": "https://thapcamtvbc.mobi/img/soccer.svg",
+            "logo_b": "https://thapcamtvbc.mobi/img/soccer.svg",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0e82ab3724db.webp?v=1774478070",
+            "thumb_key": "thumbs_thapcam/kaytee-0e82ab3724db.webp"
+          }
+        },
+        {
+          "id": "kaytee-7ea9eac97c7d",
+          "name": "⚽ Atletico Tucuman vs Sportivo Barracas | 05:00 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7ea9eac97c7d.webp?v=1774478069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9a5b256f54",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-9a5b256f54",
+                  "name": "Atletico Tucuman vs Sportivo Barracas",
+                  "streams": [
+                    {
+                      "id": "st-9a5b256f54",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20371cf08f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c69eb43dc7fd28d1740a786930a667cf/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/atletico-tucuman-vs-sportivo-barracas-0500-26-03-2026/320874"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Copa Argentina",
+            "team_a": "Atletico Tucuman",
+            "team_b": "Sportivo Barracas",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/2d87cf3b426597f02435e2c72e8def93.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/c9ac34f38d3730f978879e2840555ef8.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7ea9eac97c7d.webp?v=1774478069",
+            "thumb_key": "thumbs_thapcam/kaytee-7ea9eac97c7d.webp"
+          }
+        },
+        {
+          "id": "kaytee-df8a953542da",
+          "name": "⚽ Deportivo Riestra vs San Lorenzo | 05:00 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-df8a953542da.webp?v=1774478069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-89d452eb8d",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-89d452eb8d",
+                  "name": "Deportivo Riestra vs San Lorenzo",
+                  "streams": [
+                    {
+                      "id": "st-89d452eb8d",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3cd088bb35",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.phogatv8.com/live/69c453ec560ae_23/index.m3u8?expire=1775079020&sign=af8365bdd21bdb8b5c531e70cf1363a2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/deportivo-riestra-vs-san-lorenzo-0500-26-03-2026/320898"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d2d4e206bc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/02b7a7abd183ba4d9ce4bf38e02917df/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/deportivo-riestra-vs-san-lorenzo-0500-26-03-2026/320898"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "Deportivo Riestra",
+            "team_b": "San Lorenzo",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/b9eb3a2ccc44b65d7bd365ad417ddb04.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/65d05eaf7edc601ae236107417b01cbf.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-df8a953542da.webp?v=1774478069",
+            "thumb_key": "thumbs_thapcam/kaytee-df8a953542da.webp"
+          }
+        },
+        {
+          "id": "kaytee-bef72dae61e7",
+          "name": "⚽ Aryna Sabalenka vs Hailey Baptiste | 06:00 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bef72dae61e7.webp?v=1774478065",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a3e7d8a321",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-a3e7d8a321",
+                  "name": "Aryna Sabalenka vs Hailey Baptiste",
+                  "streams": [
+                    {
+                      "id": "st-a3e7d8a321",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d391c7968",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.phogatv8.com/live/69c45f22560ae_742/index.m3u8?expire=1775081890&sign=6b871a844c0ec8378ed4ff9ac17929a4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/aryna-sabalenka-vs-hailey-baptiste-0600-26-03-2026/318054"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTA Miami, USA Women Singles",
+            "team_a": "Aryna Sabalenka",
+            "team_b": "Hailey Baptiste",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/02dafb75bfa38f4c3a711fed23dad19b.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/23df05ffaff10b36eb76b50c4ba70958.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bef72dae61e7.webp?v=1774478065",
+            "thumb_key": "thumbs_thapcam/kaytee-bef72dae61e7.webp"
+          }
+        },
+        {
+          "id": "kaytee-6bb211f3eacf",
+          "name": "⚽ Philadelphia 76ers vs Chicago Bulls | 06:00 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6bb211f3eacf.webp?v=1774478066",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-976e6f1067",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-976e6f1067",
+                  "name": "Philadelphia 76ers vs Chicago Bulls",
+                  "streams": [
+                    {
+                      "id": "st-976e6f1067",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8dfe10742f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/philadelphia-76ers-vs-chicago-bulls-0600-26-03-2026/321615"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Philadelphia 76ers",
+            "team_b": "Chicago Bulls",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/06e7bde6cca98873fe971fad4e67a9b6.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/f15ed15d914b6a608e9a396f03c755b0.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6bb211f3eacf.webp?v=1774478066",
+            "thumb_key": "thumbs_thapcam/kaytee-6bb211f3eacf.webp"
+          }
+        },
+        {
+          "id": "kaytee-880941aa97f2",
+          "name": "⚽ Indiana Pacers vs Los Angeles Lakers | 06:00 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-880941aa97f2.webp?v=1774478069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d6bd72e952",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-d6bd72e952",
+                  "name": "Indiana Pacers vs Los Angeles Lakers",
+                  "streams": [
+                    {
+                      "id": "st-d6bd72e952",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5457849607",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/indiana-pacers-vs-los-angeles-lakers-0600-26-03-2026/321618"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Indiana Pacers",
+            "team_b": "Los Angeles Lakers",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/6f313b682482799762cf60dbc30dbfae.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/fa6f985041ec3f9729172380ae9cebf8.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-880941aa97f2.webp?v=1774478069",
+            "thumb_key": "thumbs_thapcam/kaytee-880941aa97f2.webp"
+          }
+        },
+        {
+          "id": "kaytee-65ab53e23bf5",
+          "name": "⚽ Lexington vs Brooklyn FC | 06:00 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-65ab53e23bf5.webp?v=1774478070",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-561f2bda4c",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-561f2bda4c",
+                  "name": "Lexington vs Brooklyn FC",
+                  "streams": [
+                    {
+                      "id": "st-561f2bda4c",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2bf77197e6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.phogatv8.com/live/69c46214560ae_26/index.m3u8?expire=1775082644&sign=4b9e140083a57c91d25f7204891add56",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/lexington-vs-brooklyn-fc-0600-26-03-2026/320922"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "USL Championship",
+            "team_a": "Lexington",
+            "team_b": "Brooklyn FC",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/9b0e43ca0195227d6fefc8b082963330.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/362e93771930fdf18e2fbfbb2a991e1c.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-65ab53e23bf5.webp?v=1774478070",
+            "thumb_key": "thumbs_thapcam/kaytee-65ab53e23bf5.webp"
+          }
+        },
+        {
+          "id": "kaytee-c9da5063c694",
+          "name": "⚽ Detroit Pistons vs Atlanta Hawks | 06:00 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c9da5063c694.webp?v=1774478070",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-99f2da0a27",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-99f2da0a27",
+                  "name": "Detroit Pistons vs Atlanta Hawks",
+                  "streams": [
+                    {
+                      "id": "st-99f2da0a27",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-511b44e95c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-atlanta-hawks-0600-26-03-2026/321627"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Detroit Pistons",
+            "team_b": "Atlanta Hawks",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/3f82122a48e98eaccc5e71307eba801a.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/4e67b14905a05af9e1bd04406bf8690f.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c9da5063c694.webp?v=1774478070",
+            "thumb_key": "thumbs_thapcam/kaytee-c9da5063c694.webp"
+          }
+        },
+        {
+          "id": "kaytee-22edada0e6f1",
+          "name": "⚽ Sporting Jax vs Miami FC | 06:30 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-22edada0e6f1.webp?v=1774478067",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-54a73bc395",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-54a73bc395",
+                  "name": "Sporting Jax vs Miami FC",
+                  "streams": [
+                    {
+                      "id": "st-54a73bc395",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-832adb8d5a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/sporting-jax-vs-miami-fc-0630-26-03-2026/320943"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "USL Championship",
+            "team_a": "Sporting Jax",
+            "team_b": "Miami FC",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/35fa04bcfe9565d2d68cfe397075bf07.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/10e3c287008eed128a8c53f8f55c26bd.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-22edada0e6f1.webp?v=1774478067",
+            "thumb_key": "thumbs_thapcam/kaytee-22edada0e6f1.webp"
+          }
+        },
+        {
+          "id": "kaytee-aad81770a113",
+          "name": "⚽ Cleveland Cavaliers vs Miami Heat | 06:30 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-aad81770a113.webp?v=1774478068",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6e3522c27f",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-6e3522c27f",
+                  "name": "Cleveland Cavaliers vs Miami Heat",
+                  "streams": [
+                    {
+                      "id": "st-6e3522c27f",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4d6d86103",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/cleveland-cavaliers-vs-miami-heat-0630-26-03-2026/321645"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Cleveland Cavaliers",
+            "team_b": "Miami Heat",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/57c938e35ceb2ee92562a09c4165fb47.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/ff7ccef6a6b79c6417ee8367946b0aec.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-aad81770a113.webp?v=1774478068",
+            "thumb_key": "thumbs_thapcam/kaytee-aad81770a113.webp"
+          }
+        }
+      ]
+    }
+  ]
+}
