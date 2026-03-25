@@ -1,16 +1,107 @@
 {
-  "playlist": [
+  "id": "zzz-nguonc-news",
+  "name": "Zzz - News Live",
+  "url": "https://media.hth4nh.eu.org/nguonc",
+  "color": "#004444",
+  "image": {
+    "url": "https://media.hth4nh.eu.org/nguonc/../static/img/logo-nguonc.png",
+    "type": "cover"
+  },
+  "description": "Bản fix lỗi Feed cho CNA và NHK",
+  "share": {
+    "url": "https://media.hth4nh.eu.org/nguonc"
+  },
+  "notice": {
+    "closeable": true,
+    "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
+    "id": "notice",
+    "link": "https://t.me/zzz_monplayer",
+    "text": "Đã cập nhật kênh Live mới"
+  },
+  "sorts": [],
+  "grid_number": 3,
+  "channels": [
     {
-      "name": "VTV1 HD",
-      "url": "http://link-stream-vtv1.m3u8",
-      "logo": "link_anh_logo_vtv1",
-      "group": "Truyền hình Việt Nam"
+      "id": "cna-news-live",
+      "name": "CNA News",
+      "description": "Kênh tin tức Singapore trực tuyến",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/960px-CNA_new_logo.svg.png",
+        "type": "cover",
+        "width": 480,
+        "height": 640
+      },
+      "type": "single",
+      "display": "text-below",
+      "label": {
+        "text": "LIVE",
+        "position": "top-left",
+        "color": "#ff0000",
+        "text_color": "#ffffff"
+      },
+      "enable_detail": false,
+      "sources": [
+        {
+          "name": "CNA",
+          "contents": [
+            {
+              "name": "Live",
+              "streams": [
+                {
+                  "name": "HLS",
+                  "stream_links": [
+                    {
+                      "type": "hls",
+                      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "name": "VTV3 HD",
-      "url": "http://link-stream-vtv3.m3u8",
-      "logo": "link_anh_logo_vtv3",
-      "group": "Truyền hình Việt Nam"
+      "id": "nhk-world-live",
+      "name": "NHK WORLD-JAPAN",
+      "description": "Kênh tin tức Nhật Bản trực tuyến",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png",
+        "type": "cover",
+        "width": 480,
+        "height": 640
+      },
+      "type": "single",
+      "display": "text-below",
+      "label": {
+        "text": "LIVE",
+        "position": "top-left",
+        "color": "#ff0000",
+        "text_color": "#ffffff"
+      },
+      "enable_detail": false,
+      "sources": [
+        {
+          "name": "NHK",
+          "contents": [
+            {
+              "name": "Live",
+              "streams": [
+                {
+                  "name": "HLS",
+                  "stream_links": [
+                    {
+                      "type": "hls",
+                      "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
