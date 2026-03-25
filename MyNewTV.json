@@ -1,7 +1,7 @@
 {
-  "id": "my_list_12",
-  "name": "My List",
-  "url": "https://raw.githubusercontent.com/Miky847/my-iptv/main/MyTV.json",
+  "id": "My_Tv_List",
+  "name": "My TV List",
+  "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/MyNewTV.json",
   "color": "#1a73e8",
   "grid_number": 3,
   "image": {
