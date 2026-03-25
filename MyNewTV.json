@@ -1,24 +1,27 @@
 {
-  "id": "My-New-TV",
-  "name": "Test NHK Live",
-  "url": "https://raw.githubusercontent.com/Miky847/my-iptv/main/MyNewTV.json",
+  "id": "zzz-nguonc-nhk-test",
+  "name": "NHK World Test",
+  "url": "https://media.hth4nh.eu.org/nguonc",
   "color": "#004444",
   "image": {
     "url": "https://raw.githubusercontent.com/Miky847/Logo/main/WorldNewLogo.jpg",
     "type": "cover"
   },
-  "description": "Test NHK",
+  "description": "Bản test cấu trúc chuẩn Nguon C cho NHK",
+  "share": {
+    "url": "https://media.hth4nh.eu.org/nguonc"
+  },
   "notice": {
     "closeable": true,
     "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
     "id": "notice",
-    "text": "Đang chạy bản test NHK"
+    "text": "NHK Live Testing"
   },
   "sorts": [
     {
       "text": "Mới nhất",
       "type": "radio",
-      "url": "https://raw.githubusercontent.com/Miky847/my-iptv/main/MyNewTV.json"
+      "url": "https://media.hth4nh.eu.org/nguonc/sort/tab/all"
     }
   ],
   "grid_number": 3,
@@ -26,13 +29,16 @@
     {
       "id": "NHK-NEWS",
       "name": "NHK WORLD-JAPAN",
-      "type": "single",
-      "display": "thumbnail-only",
-      "enable_detail": false,
+      "description": "NHK World Japan Live Stream",
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png",
-        "type": "cover"
+        "type": "cover",
+        "width": 480,
+        "height": 640
       },
+      "type": "single",
+      "display": "text-below",
+      "enable_detail": false,
       "sources": [
         {
           "name": "Server 1",
@@ -58,8 +64,19 @@
   ],
   "groups": [],
   "load_more": {
-    "remote_data": { "url": "" },
-    "paging": { "page_key": "p", "size_key": "s" },
-    "pageInfo": { "current_page": 1, "total": 1, "per_page": 1, "last_page": 1 }
+    "remote_data": {
+      "url": "https://media.hth4nh.eu.org/nguonc/sort/tab/all",
+      "external": false
+    },
+    "paging": {
+      "page_key": "p",
+      "size_key": "s"
+    },
+    "pageInfo": {
+      "current_page": 1,
+      "total": 1,
+      "per_page": 1,
+      "last_page": 1
+    }
   }
 }
