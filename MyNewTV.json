@@ -4,12 +4,12 @@
   "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/MyNewTV.json",
   "color": "#004444",
   "image": {
-    "url": "https://media.hth4nh.eu.org/static/img/logo-kk-2.png",
+    "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/WorldNewLogo.jpg",
     "type": "cover"
   },
   "description": "Bản test tối giản với 2 phim để thử nghiệm trên Android TV MiBox.",
   "share": {
-    "url": "https://media.hth4nh.eu.org/kkphim"
+    "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/MyNewTV.json"
   },
   "notice": {
     "closeable": true,
@@ -28,11 +28,11 @@
   "grid_number": 3,
   "channels": [
     {
-      "id": "xin-chao-1983",
-      "name": "Xin Chào 1983",
-      "description": "Ở tuổi 36, Hạ Hiểu Lan – nữ quản lý cấp cao – mất tất cả sau khi công ty...",
+      "id": "VTV1",
+      "name": "VTV1",
+      "description": "VTV1",
       "image": {
-        "url": "https://phimimg.com/upload/vod/20260319-1/3e5edb52e9586f68653000deeda662b0.jpg",
+        "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png",
         "type": "cover",
         "width": 480,
         "height": 640
@@ -40,22 +40,22 @@
       "type": "playlist",
       "display": "text-below",
       "label": {
-        "text": "Tập 20",
+        "text": "On Air",
         "position": "top-left",
         "color": "#35ba8b",
         "text_color": "#ffffff"
       },
       "remote_data": {
-        "url": "https://media.hth4nh.eu.org/kkphim/detail/xin-chao-1983"
+        "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/VTV1.m3u8"
       },
       "enable_detail": true
     },
     {
-      "id": "thu-thach-than-tuong",
-      "name": "Thử Thách Thần Tượng",
-      "description": "Thử Thách Thần Tượng - RUNNING MAN là một show truyền hình hài hước thực tế...",
+      "id": "NHK",
+      "name": "NHK",
+      "description": "NHK",
       "image": {
-        "url": "https://p21-ad-sg.ibyteimg.com/obj/ad-site-i18n-sg/202503175d0d738fd340d1d5428e9d74",
+        "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/NHK.png",
         "type": "cover",
         "width": 480,
         "height": 640
@@ -63,13 +63,13 @@
       "type": "playlist",
       "display": "text-below",
       "label": {
-        "text": "Tập 795",
+        "text": "On Air",
         "position": "top-left",
         "color": "#35ba8b",
         "text_color": "#ffffff"
       },
       "remote_data": {
-        "url": "https://media.hth4nh.eu.org/kkphim/detail/thu-thach-than-tuong"
+        "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
       },
       "enable_detail": true
     }
