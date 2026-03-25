@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VTV1" tvg-logo="link_anh_logo_vtv1" group-title="VTV",VTV1 HD
+http://link-stream-vtv1.m3u8
+#EXTINF:-1 tvg-id="VTV3" tvg-logo="link_anh_logo_vtv3" group-title="VTV",VTV3 HD
+http://link-stream-vtv3.m3u8
+#EXTINF:-1 tvg-id="VTV6" tvg-logo="link_anh_logo_vtv6" group-title="VTV",VTV6 HD
+http://link-stream-vtv6.m3u8
