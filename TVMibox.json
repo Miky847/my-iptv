@@ -1,0 +1,78 @@
+{
+  "channels": [
+    {
+      "id": "NHK-NEWS",
+      "name": "NHK",
+      "type": "single",
+      "display": "thumbnail-only",
+      "enable_detail": false,
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png" 
+      },
+      "sources": [
+        {
+          "name": "Server 1",
+          "contents": [
+            {
+              "name": "NHK",
+              "streams": [
+                {
+                  "name": "HLS",
+                  "stream_links": [
+                    {
+                      "id": "lnk-nhk-world",
+                      "name": "Link 1",
+                      "type": "hls",
+                      "default": true,
+                      "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+                      "request_headers": [
+                        { "key": "User-Agent", "value": "Mozilla/5.0" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "france24-news",
+      "name": "France 24",
+      "type": "single",
+      "display": "thumbnail-only",
+      "enable_detail": false,
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/330px-France_24_logo_%282013%29.svg.png" 
+      },
+      "sources": [
+        {
+          "name": "Server 1",
+          "contents": [
+            {
+              "name": "France 24",
+              "streams": [
+                {
+                  "name": "HLS",
+                  "stream_links": [
+                    {
+                      "id": "lnk-f24-en",
+                      "name": "Link 1",
+                      "type": "hls",
+                      "default": true,
+                      "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+                      "request_headers": [
+                        { "key": "User-Agent", "value": "Mozilla/5.0" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
