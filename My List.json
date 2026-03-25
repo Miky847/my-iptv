@@ -51,7 +51,7 @@
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
-          "image": { "url": "https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" },
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png" },
           "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV1", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2" }] }] }] }]
         },
         {
@@ -60,7 +60,7 @@
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
-          "image": { "url": "https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" },
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV2.png" },
           "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV2", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV2HD/live_hls_avc/index.m3u8" }] }] }] }]
         },
         {
@@ -69,7 +69,7 @@
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
-          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/d7b61a8c4814f28b2213bff1ca3d9261e3cc66f3/VTV3.png" },
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV3.png" },
           "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV3", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8" }] }] }] }]
         },
         {
@@ -78,7 +78,7 @@
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
-          "image": { "url": "https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" },
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV4.png" },
           "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV4", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV4HD/live_hls_avc/index.m3u8", "request_headers": [{"key": "User-Agent", "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"}] }] }] }] }]
         },
         {
@@ -87,7 +87,7 @@
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
-          "image": { "url": "https://vtv1.com.vn/vtv5.png" },
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV5.png" },
           "sources": [{ "name": "Server", "contents": [{ "name": "VTV5", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8" }] }] }] }]
         },
         {
@@ -96,7 +96,7 @@
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
-          "image": { "url": "https://vtv1.com.vn/vtvcantho.png" },
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV%20Cantho.png" },
           "sources": [{ "name": "Server", "contents": [{ "name": "VTVCT", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtvct_abr.smil/chunklist.m3u8" }] }] }] }]
         }
       ]
