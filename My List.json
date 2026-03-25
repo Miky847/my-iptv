@@ -16,7 +16,15 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-     
+     {
+  "name": "BBC World News",
+  "tvg_id": "bbcworldnews",
+  "logo": "https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg",
+  "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd",
+  "user_agent": "Dalvik/2.1.0",
+  "license_type": "clearkey",
+  "license_key": "c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591"
+}
         {
           "id": "cna-news",
           "name": "CNA",
