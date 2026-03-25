@@ -1,13 +1,13 @@
 {
   "id": "zzz-nguonc",
-  "name": "Zzz - NguonC (Live Test)",
+  "name": "Zzz - NguonC (Test Live)",
   "url": "https://media.hth4nh.eu.org/nguonc",
   "color": "#004444",
   "image": {
     "url": "https://media.hth4nh.eu.org/nguonc/../static/img/logo-nguonc.png",
     "type": "cover"
   },
-  "description": "Bản test CNA và NHK trên MiBox",
+  "description": "Bản test CNA & NHK chuẩn MiBox dựa trên NguonC",
   "share": {
     "url": "https://media.hth4nh.eu.org/nguonc"
   },
@@ -15,7 +15,8 @@
     "closeable": true,
     "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
     "id": "notice",
-    "text": "Đang chạy bản test CNA & NHK"
+    "link": "https://t.me/zzz_monplayer",
+    "text": "Đang test CNA & NHK"
   },
   "sorts": [
     {
@@ -48,7 +49,10 @@
                 {
                   "name": "HLS",
                   "stream_links": [
-                    { "type": "hls", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112" }
+                    {
+                      "type": "hls",
+                      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112"
+                    }
                   ]
                 }
               ]
@@ -79,7 +83,10 @@
                 {
                   "name": "HLS",
                   "stream_links": [
-                    { "type": "hls", "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8" }
+                    {
+                      "type": "hls",
+                      "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
+                    }
                   ]
                 }
               ]
@@ -91,7 +98,7 @@
   ],
   "groups": [
     {
-      "id": "live-tv",
+      "id": "live-test",
       "name": "Kênh Truyền Hình",
       "display": "horizontal",
       "channels": [
@@ -163,4 +170,7 @@
       "current_page": 1,
       "total": 2,
       "per_page": 2,
-      "last
+      "last_page": 1
+    }
+  }
+}
