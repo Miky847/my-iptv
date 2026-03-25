@@ -1,7 +1,7 @@
 {
   "id": "MyNewTV",
   "name": "My New TV (Test MiBox)",
-  "url": "https://media.hth4nh.eu.org/kkphim",
+  "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/MyNewTV.json",
   "color": "#004444",
   "image": {
     "url": "https://media.hth4nh.eu.org/static/img/logo-kk-2.png",
