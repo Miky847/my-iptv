@@ -1,76 +1,107 @@
 {
-  "channels": [
+  "id": "live_list_short",
+  "name": "KÊNH ĐANG LIVE",
+  "groups": [
     {
-      "id": "NHK-NEWS",
-      "name": "NHK",
-      "type": "single",
-      "display": "thumbnail-only",
-      "enable_detail": false,
-      "image": { 
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png" 
-      },
-      "sources": [
+      "id": "group_live",
+      "name": "🔴 ĐANG TRỰC TIẾP",
+      "channels": [
         {
-          "name": "Server 1",
-          "contents": [
-            {
-              "name": "NHK",
-              "streams": [
-                {
-                  "name": "HLS",
-                  "stream_links": [
-                    {
-                      "id": "lnk-nhk-world",
-                      "name": "Link 1",
-                      "type": "hls",
-                      "default": true,
-                      "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
-                      "request_headers": [
-                        { "key": "User-Agent", "value": "Mozilla/5.0" }
-                      ]
-                    }
+          "id": "live-tennis-1",
+          "name": "🎾 Mertens/Zhang vs Hunter/Pegula",
+          "type": "single",
+          "image": { "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0e82ab3724db.webp" },
+          "sources": [{
+            "id": "src-1", "contents": [{
+              "id": "ct-1", "streams": [{
+                "id": "st-1", "stream_links": [{
+                  "id": "lnk-1", "type": "hls", "default": true,
+                  "url": "https://live.alilicloud.com/live/4e931283c6e6d64663a524a69df0aaa3/playlist.m3u8",
+                  "request_headers": [
+                    { "key": "Referer", "value": "https://thapcamtvbc.mobi/truc-tiep/elise-mertenszhang-shuai-vs-hunter-s--pegula-j-0420-26-03-2026/318066" },
+                    { "key": "User-Agent", "value": "Mozilla/5.0" }
                   ]
-                }
-              ]
-            }
-          ]
+                }]
+              }]
+            }]
+          }]
+        },
+        {
+          "id": "live-football-1",
+          "name": "⚽ Atletico Tucuman vs Sportivo Barracas",
+          "type": "single",
+          "image": { "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7ea9eac97c7d.webp" },
+          "sources": [{
+            "id": "src-2", "contents": [{
+              "id": "ct-2", "streams": [{
+                "id": "st-2", "stream_links": [{
+                  "id": "lnk-2", "type": "hls", "default": true,
+                  "url": "https://live.alilicloud.com/live/c69eb43dc7fd28d1740a786930a667cf/playlist.m3u8",
+                  "request_headers": [
+                    { "key": "Referer", "value": "https://thapcamtvbc.mobi/truc-tiep/atletico-tucuman-vs-sportivo-barracas-0500-26-03-2026/320874" },
+                    { "key": "User-Agent", "value": "Mozilla/5.0" }
+                  ]
+                }]
+              }]
+            }]
+          }]
         }
       ]
     },
     {
-      "id": "france24-news",
-      "name": "France 24",
-      "type": "single",
-      "display": "thumbnail-only",
-      "enable_detail": false,
-      "image": { 
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/330px-France_24_logo_%282013%29.svg.png" 
-      },
-      "sources": [
+      "id": "group_tv",
+      "name": "📺 TRUYỀN HÌNH",
+      "channels": [
         {
-          "name": "Server 1",
-          "contents": [
-            {
-              "name": "France 24",
-              "streams": [
-                {
-                  "name": "HLS",
-                  "stream_links": [
-                    {
-                      "id": "lnk-f24-en",
-                      "name": "Link 1",
-                      "type": "hls",
-                      "default": true,
-                      "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
-                      "request_headers": [
-                        { "key": "User-Agent", "value": "Mozilla/5.0" }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "id": "vtv1-short",
+          "name": "VTV1 HD",
+          "type": "single",
+          "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png" },
+          "sources": [{
+            "id": "src-v1", "contents": [{
+              "id": "ct-v1", "streams": [{
+                "id": "st-v1", "stream_links": [{
+                  "id": "lnk-v1", "type": "hls", "default": true,
+                  "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
+                  "request_headers": [{ "key": "User-Agent", "value": "Mozilla/5.0" }]
+                }]
+              }]
+            }]
+          }]
+        },
+        {
+          "id": "nhk-short",
+          "name": "NHK World",
+          "type": "single",
+          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png" },
+          "sources": [{
+            "id": "src-n1", "contents": [{
+              "id": "ct-n1", "streams": [{
+                "id": "st-n1", "stream_links": [{
+                  "id": "lnk-n1", "type": "hls", "default": true,
+                  "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+                  "request_headers": [{ "key": "User-Agent", "value": "Mozilla/5.0" }]
+                }]
+              }]
+            }]
+          }]
+        },
+        {
+          "id": "france24-short",
+          "name": "France 24",
+          "type": "single",
+          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/330px-France_24_logo_%282013%29.svg.png" },
+          "sources": [{
+            "id": "src-f1", "contents": [{
+              "id": "ct-f1", "streams": [{
+                "id": "st-f1", "stream_links": [{
+                  "id": "lnk-f1", "type": "hls", "default": true,
+                  "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+                  "request_headers": [{ "key": "User-Agent", "value": "Mozilla/5.0" }]
+                }]
+              }]
+            }]
+          }]
         }
       ]
     }
