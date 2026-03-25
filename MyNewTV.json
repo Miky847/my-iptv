@@ -8,8 +8,19 @@
     "type": "cover"
   },
   "description": "Test NHK",
-  "sorts": [],
-  "groups": [],
+  "notice": {
+    "closeable": true,
+    "icon": "https://media.hth4nh.eu.org/static/img/tele.png",
+    "id": "notice",
+    "text": "Đang chạy bản test NHK"
+  },
+  "sorts": [
+    {
+      "text": "Mới nhất",
+      "type": "radio",
+      "url": "https://raw.githubusercontent.com/Miky847/my-iptv/main/MyNewTV.json"
+    }
+  ],
   "grid_number": 3,
   "channels": [
     {
@@ -19,7 +30,8 @@
       "display": "thumbnail-only",
       "enable_detail": false,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png",
+        "type": "cover"
       },
       "sources": [
         {
@@ -44,6 +56,7 @@
       ]
     }
   ],
+  "groups": [],
   "load_more": {
     "remote_data": { "url": "" },
     "paging": { "page_key": "p", "size_key": "s" },
