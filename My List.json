@@ -24,7 +24,7 @@
           "display": "thumbnail-only",
           "enable_detail": false,
           "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png" },
-          "sources": [{ "name": "Link M3U", "contents": [{ "name": "test", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2" }] }] }] }]
+          "sources": [{ "name": "Link M3U", "contents": [{ "name": "test", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/VTV1.m3u8" }] }] }] }]
         },
        
    {
