@@ -19,13 +19,13 @@
       "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV1", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/VTV1.m3u8" }] }] }] }]
     },
     {
-      "id": "vtv-can-tho",
-      "name": "VTV Cần Thơ",
+      "id": "NHK",
+      "name": "NHK",
       "type": "single",
       "display": "thumbnail-only",
       "enable_detail": false,
-      "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV%20Cantho.png" },
-      "sources": [{ "name": "Server", "contents": [{ "name": "VTVCT", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtvct_abr.smil/chunklist.m3u8" }] }] }] }]
+      "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/NHK.png" },
+      "sources": [{ "name": "Server", "contents": [{ "name": "VTVCT", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8" }] }] }] }]
     },
     {
       "id": "bbc-world-news",
