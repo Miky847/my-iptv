@@ -1,0 +1,33 @@
+{
+  "id": "my_custom_list",
+  "name": "Danh Sách Kênh Mibox",
+  "channels": [
+    {
+      "id": "vtv1-hd",
+      "name": "VTV1 HD",
+      "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png" },
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
+      "type": "single"
+    },
+{
+  "id": "NHK-NEWS",
+  "name": "NHK World",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png"
+  },
+  "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+  "type": "single",
+  "display": "thumbnail-only",
+  "enable_detail": false
+},
+    {
+      "id": "bbc-world-news",
+      "name": "BBC World News",
+      "image": { "url": "https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg" },
+      "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd",
+      "user_agent": "Dalvik/2.1.0",
+      "license_type": "clearkey",
+      "license_key": "c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591"
+    }
+  ]
+}
