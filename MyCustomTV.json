@@ -1,20 +1,84 @@
 {
-  "id": "nhk-world-japan",
-  "name": "NHK World Japan",
-  "type": "single",
-  "image": { 
-    "url": "https://www3.nhk.or.jp/nhkworld/common/images/logo_nhkworld_v.png" 
-  },
-  "sources": [
+  "id": "mytv_fixed_mibox",
+  "name": "MyTV Fix",
+  "color": "#1a73e8",
+  "grid_number": 3,
+  "channels": [
     {
-      "name": "NHK Japan",
-      "contents": [
+      "id": "nhk-world",
+      "name": "NHK World Japan",
+      "type": "single",
+      "image": { "url": "https://www3.nhk.or.jp/nhkworld/common/images/logo_nhkworld_v.png" },
+      "sources": [
         {
-          "name": "HLS High Quality",
-          "streams": [
-            { 
-              "type": "hls", 
-              "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003234/nhkwlive-ojp-en/index.m3u8" 
+          "name": "NHK Japan",
+          "contents": [
+            {
+              "name": "HLS",
+              "streams": [
+                { "type": "hls", "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003234/nhkwlive-ojp-en/index.m3u8" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vtv-can-tho",
+      "name": "VTV Cần Thơ",
+      "type": "single",
+      "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV%20Cantho.png" },
+      "sources": [
+        {
+          "name": "Server",
+          "contents": [
+            {
+              "name": "HLS",
+              "streams": [
+                { "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtvct_abr.smil/chunklist.m3u8" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bbc-world",
+      "name": "BBC World News",
+      "type": "single",
+      "image": { "url": "https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg" },
+      "sources": [
+        {
+          "name": "Server 1",
+          "contents": [
+            {
+              "name": "DASH",
+              "streams": [
+                {
+                  "type": "dash",
+                  "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd",
+                  "request_headers": [{ "key": "User-Agent", "value": "Dalvik/2.1.0" }]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vtv1-test",
+      "name": "VTV1 Test",
+      "type": "single",
+      "image": { "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png" },
+      "sources": [
+        {
+          "name": "HLS",
+          "contents": [
+            {
+              "name": "Live",
+              "streams": [
+                { "type": "hls", "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/VTV1.m3u8" }
+              ]
             }
           ]
         }
