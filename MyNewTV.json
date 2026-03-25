@@ -1,13 +1,15 @@
 {
   "id": "My-New-TV",
   "name": "Test NHK Live",
-  "url": "https://raw.githubusercontent.com/Miky847/my-iptv/refs/heads/main/MyNewTV.json",
+  "url": "https://raw.githubusercontent.com/Miky847/my-iptv/main/MyNewTV.json",
   "color": "#004444",
   "image": {
-    "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/WorldNewLogo.jpg",
+    "url": "https://raw.githubusercontent.com/Miky847/Logo/main/WorldNewLogo.jpg",
     "type": "cover"
   },
   "description": "Test luồng trực tiếp NHK trên MiBox",
+  "sorts": [],
+  "groups": [],
   "grid_number": 3,
   "channels": [
     {
@@ -16,25 +18,28 @@
       "type": "single",
       "display": "thumbnail-only",
       "enable_detail": false,
-      "image": { 
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png" 
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png"
       },
       "sources": [
-        { 
-          "name": "Server 1", 
+        {
+          "name": "Server 1",
           "contents": [
-            { 
-              "name": "NHK", 
+            {
+              "name": "NHK",
               "streams": [
-                { 
-                  "name": "HLS", 
+                {
+                  "name": "HLS",
                   "stream_links": [
-                    { "type": "hls", "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8" }
-                  ] 
+                    {
+                      "type": "hls",
+                      "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
+                    }
+                  ]
                 }
-              ] 
+              ]
             }
-          ] 
+          ]
         }
       ]
     }
