@@ -7,7 +7,7 @@
     "url": "https://raw.githubusercontent.com/Miky847/Logo/main/WorldNewLogo.jpg",
     "type": "cover"
   },
-  "description": "Test luồng trực tiếp NHK trên MiBox",
+  "description": "Test NHK",
   "sorts": [],
   "groups": [],
   "grid_number": 3,
@@ -45,11 +45,8 @@
     }
   ],
   "load_more": {
-    "pageInfo": {
-      "current_page": 1,
-      "total": 1,
-      "per_page": 1,
-      "last_page": 1
-    }
+    "remote_data": { "url": "" },
+    "paging": { "page_key": "p", "size_key": "s" },
+    "pageInfo": { "current_page": 1, "total": 1, "per_page": 1, "last_page": 1 }
   }
 }
