@@ -23,8 +23,8 @@
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/CNA_logo.svg/1200px-CNA_logo.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "CNA", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://cnalive.akamaized.net/hls/live/2003809/cnalive/master.m3u8" }] }] }] }]
+          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/960px-CNA_new_logo.svg.png" },
+          "sources": [{ "name": "Server 1", "contents": [{ "name": "CNA", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112" }] }] }] }]
         },
         {
           "id": "france24-news",
