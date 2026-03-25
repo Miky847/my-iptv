@@ -1,6 +1,6 @@
 {
-  "id": "my_custom_list",
-  "name": "Danh Sách Kênh Mibox",
+  "id": "my_custom_list_v2",
+  "name": "Danh Sách Mibox Tối Giản",
   "channels": [
     {
       "id": "vtv1-hd",
@@ -9,17 +9,13 @@
       "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
       "type": "single"
     },
-{
-  "id": "NHK-NEWS",
-  "name": "NHK World",
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png"
-  },
-  "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
-  "type": "single",
-  "display": "thumbnail-only",
-  "enable_detail": false
-},
+    {
+      "id": "NHK-NEWS",
+      "name": "NHK World",
+      "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png" },
+      "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+      "type": "single"
+    },
     {
       "id": "bbc-world-news",
       "name": "BBC World News",
