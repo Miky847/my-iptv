@@ -17,107 +17,126 @@
       "enable_detail": false,
       "channels": [
         {
-           "name": "BBC World News",
-    "tvg_id": "bbcworldnews",
-    "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd"
-        },
-        {
-          "id": "cna-news",
-          "name": "CNA",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "CNA", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112" }] }] }] }]
-        },
-        {
-          "id": "france24-news",
-          "name": "France 24",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/France_24_logo.svg/1200px-France_24_logo.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "France 24", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8" }] }] }] }]
-        },
-        {
-          "id": "nhk-news",
-          "name": "NHK World",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NHK_World_logo.svg/1200px-NHK_World_logo.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "NHK", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/master.m3u8" }] }] }] }]
-        },
-        {
-          "id": "aljazeera-news",
-          "name": "Al Jazeera English",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_English_logo.svg/1200px-Al_Jazeera_English_logo.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "AJE", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8" }] }] }] }]
-        },
-        {
-          "id": "dw-news",
-          "name": "DW",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Deutsche_Welle_logo.svg/1200px-Deutsche_Welle_logo.svg.png" },
-          "sources": [{ "name": "Server 1", "contents": [{ "name": "DW", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://dwamdstream-lh.akamaihd.net/i/dwamd_en@311910/master.m3u8" }] }] }] }]
-        },
-        {
-          "name": "VTV1",
-          "tvg_id": "vtv1hd",
-          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" },
-          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
-          "catchup": { "days": "2", "source": "http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}" }
-        },
-        {
-          "id": "vtv2-hd",
-          "name": "VTV2 HD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" },
-          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV3", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV2HD/live_hls_avc/index.m3u8" }] }] }] }]
-        },
-        {
-          "id": "vtv3-hd",
-          "name": "VTV3 HD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" },
-          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV3", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8" }] }] }] }]
-        },
-        {
-          "id": "vtv4-hd",
-          "name": "VTV4 HD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" },
-          "sources": [{ "name": "Link M3U", "contents": [{ "name": "VTV4", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV4HD/live_hls_avc/index.m3u8", "request_headers": [{"key": "User-Agent", "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"}] }] }] }] }]
-        },
-        {
-          "id": "vtv5-hd",
-          "name": "VTV5 HD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://vtv1.com.vn/vtv5.png" },
-          "sources": [{ "name": "Server", "contents": [{ "name": "VTV5", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8" }] }] }] }]
-        },
-        {
-          "id": "vtv-cantho",
-          "name": "VTV Cần Thơ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": { "url": "https://vtv1.com.vn/vtvcantho.png" },
-          "sources": [{ "name": "Server", "contents": [{ "name": "VTVCT", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://live.fptplay53.net/fnxch2/vtvct_abr.smil/chunklist.m3u8" }] }] }] }]
-        }
+    "name": "KuboLive #Server 1",
+    "tvg_id": "kubolive",
+    "group": "Kubo Network",
+    "logo": "https://ip1.qphim.xyz/image/kubolive-full.png",
+    "url": "https://hnlive.dramahay.xyz/live/kubolive/index.m3u8",
+    "catchup": {
+      "type": "append",
+      "days": "5",
+      "source": "?t=${start}&d=${offset}"
+    }
+  },
+  {
+    "name": "KuboCast",
+    "tvg_id": "kubocast",
+    "group": "Kubo Network",
+    "logo": "https://ip1.qphim.xyz/image/kubocast.png",
+    "url": "https://hnlive.dramahay.xyz/live/kubocast/index.m3u8"
+  },
+  {
+    "name": "TXBN",
+    "tvg_id": "TXBN",
+    "group": "Kubo Network",
+    "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Logo.png",
+    "url": "https://hnlive.dramahay.xyz/live/TXBN/index.m3u8"
+  },
+  {
+    "name": "SG Network",
+    "tvg_id": "sgnetwork",
+    "group": "SG Network",
+    "logo": "https://devonlynino.github.io/assets/images/main.png",
+    "url": "https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/devonlynino/playlist.m3u8",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Nino Channel (server 1)",
+    "group": "Sự Kiện",
+    "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",
+    "url": "http://live.onnanetwork.xyz/hls/ninochannel/index.m3u8"
+  },
+  {
+    "name": "Sky Sport F1",
+    "tvg_id": "skyf1",
+    "group": "THỂ THAO QUỐC TẾ",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",
+    "url": "http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=122888&extension=ts&play_token=LB2IN39AIF"
+  },
+  {
+    "name": "TNT Sports 1 4Mbps for 4G",
+    "tvg_id": "tnt1",
+    "group": "THỂ THAO QUỐC TẾ",
+    "logo": "https://media.info/l/o/1/1539.1690027797.png",
+    "url": "http://myxpanel.pro:80/Martin/Martin/709378"
+  },
+  {
+    "name": "Canal+ Foot",
+    "group": "⚽| Thể thao quốc tế",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png",
+    "url": "http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv"
+  },
+  {
+    "name": "Eurosport 1",
+    "group": "⚽| Thể thao quốc tế",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png",
+    "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd",
+    "license_type": "clearkey",
+    "license_key": "01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d"
+  },
+  {
+    "name": "Làm Giàu Với Ma (Betting With Ghost)",
+    "group": "LIVE EVENTS 🔴",
+    "logo": "https://haniff.vn/wp-content/uploads/2024/10/Lam-giau-voi-ma-2.jpg",
+    "url": "https://s4.phim1280.tv/20250323/KmdatGKe/3000kb/hls/index.m3u8"
+  },
+  {
+    "name": "VTV1",
+    "tvg_id": "vtv1hd",
+    "group": "VTV",
+    "logo": "https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
+    "catchup": {
+      "days": "2",
+      "source": "http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}"
+    }
+  },
+  {
+    "name": "ON Phim Việt",
+    "tvg_id": "onphimviet",
+    "group": "VTVcab",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg",
+    "url": "https://vietanhtv.id.vn/tv360/175/index.m3u8"
+  },
+  {
+    "name": "SCTV1",
+    "tvg_id": "sctv1hd",
+    "group": "SCTV",
+    "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png",
+    "url": "https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8"
+  },
+  {
+    "name": "HTV7 - Đài PTTH Thành Phố Hồ Chí Minh",
+    "tvg_id": "htv7hd",
+    "group": "HTV",
+    "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png",
+    "url": "https://vc.101vn.com/htv/htvcmb.php?id=256"
+  },
+  {
+    "name": "HBO",
+    "tvg_id": "hbohd",
+    "group": "Quốc Tế",
+    "logo": "https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png",
+    "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd",
+    "license_type": "clearkey",
+    "license_key": "PeDzjc8BSCff1b7Dh0PGog:Cd3+PWOGPK+ut50FRrCYqw"
+  },
+  {
+    "name": "VOV1",
+    "group": "Radio",
+    "logo": "https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg",
+    "url": "http://media.kythuatvov.vn:7001/;stream/"
+  }
       ]
     }
   ]
