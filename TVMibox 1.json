@@ -1,0 +1,197 @@
+{
+  "id": "MI BOX TV",
+  "url": "https://tinyurl.com/thapcam",
+  "name": "MI BOX TV",
+  "color": "#1cb57a",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://tctv.pro/10cam-logo-app-light.jpg"
+  },
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 Live",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "NHK-logo",
+          "name": "NHK Logo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "NHK-source",
+              "name": "NHK Source",
+              "contents": [
+                {
+                  "id": "NHK-Source-1",
+                  "name": "NHK",
+                  "streams": [
+                    {
+                      "id": "NHK-stream",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "NHK-stream-link",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/elise-mertenszhang-shuai-vs-hunter-s--pegula-j-0420-26-03-2026/318066"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTA Miami, USA Women Doubles",
+            "team_a": "Elise Mertens/Zhang Shuai",
+            "team_b": "Hunter S / Pegula J",
+            "logo_a": "https://thapcamtvbc.mobi/img/soccer.svg",
+            "logo_b": "https://thapcamtvbc.mobi/img/soccer.svg",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0e82ab3724db.webp?v=1774478070",
+            "thumb_key": "thumbs_thapcam/kaytee-0e82ab3724db.webp"
+          }
+        },
+        {
+          "id": "kaytee-7ea9eac97c7d",
+          "name": "⚽ Atletico Tucuman vs Sportivo Barracas | 05:00 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7ea9eac97c7d.webp?v=1774478069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9a5b256f54",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-9a5b256f54",
+                  "name": "Atletico Tucuman vs Sportivo Barracas",
+                  "streams": [
+                    {
+                      "id": "st-9a5b256f54",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20371cf08f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c69eb43dc7fd28d1740a786930a667cf/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/atletico-tucuman-vs-sportivo-barracas-0500-26-03-2026/320874"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Copa Argentina",
+            "team_a": "Atletico Tucuman",
+            "team_b": "Sportivo Barracas",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/2d87cf3b426597f02435e2c72e8def93.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/c9ac34f38d3730f978879e2840555ef8.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7ea9eac97c7d.webp?v=1774478069",
+            "thumb_key": "thumbs_thapcam/kaytee-7ea9eac97c7d.webp"
+          }
+        },
+        {
+          "id": "kaytee-df8a953542da",
+          "name": "⚽ Deportivo Riestra vs San Lorenzo | 05:00 26/03",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-df8a953542da.webp?v=1774478069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-89d452eb8d",
+              "name": "Bún chả TV",
+              "contents": [
+                {
+                  "id": "ct-89d452eb8d",
+                  "name": "Deportivo Riestra vs San Lorenzo",
+                  "streams": [
+                    {
+                      "id": "st-89d452eb8d",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3cd088bb35",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "
