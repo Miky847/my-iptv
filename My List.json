@@ -16,7 +16,15 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-
+   {
+          "id": "NHK-NEWS",
+          "name": "NHK",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/500px-NHK_World.svg.png" },
+          "sources": [{ "name": "Server 1", "contents": [{ "name": "NHK", "streams": [{ "name": "HLS", "stream_links": [{ "type": "hls", "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8" }] }] }] }]
+        },
         {
           "id": "cna-news",
           "name": "CNA",
