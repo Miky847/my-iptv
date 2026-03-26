@@ -1,0 +1,799 @@
+{
+  "id": "MI BOX TV 3",
+  "url": "https://tinyurl.com/thapcam",
+  "name": "MI BOX TV 3",
+  "color": "#1cb57a",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/WorldNewLogo.jpg"
+  },
+  "groups": [
+    {
+          "id": "BBC",
+          "name": "BBC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/BBC.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-BBC",
+              "name": "Deutsche Welle",
+              "contents": [
+                {
+                  "id": "ct-BBC",
+                  "name": "BBC",
+                  "streams": [
+                    {
+                      "id": "st-BBC",
+                      "name": "BBC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-BBC",
+                          "name": "BBC",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/cleveland-cavaliers-vs-miami-heat-0630-26-03-2026/321645"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Cleveland Cavaliers",
+            "team_b": "Miami Heat",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/57c938e35ceb2ee92562a09c4165fb47.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/ff7ccef6a6b79c6417ee8367946b0aec.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-aad81770a113.webp?v=1774478068",
+            "thumb_key": "thumbs_thapcam/kaytee-aad81770a113.webp"
+          }
+        },
+    {
+          "id": "Deutsche-Welle",
+          "name": "Deutsche Welle",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/DW.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6e3522c27f",
+              "name": "Deutsche Welle",
+              "contents": [
+                {
+                  "id": "ct-Deutsche-Welle",
+                  "name": "Deutsche-Welle",
+                  "streams": [
+                    {
+                      "id": "st-Deutsche-Welle",
+                      "name": "Deutsche-Welle",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Deutsche-Welle",
+                          "name": "Deutsche-Welle",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/cleveland-cavaliers-vs-miami-heat-0630-26-03-2026/321645"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Cleveland Cavaliers",
+            "team_b": "Miami Heat",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/57c938e35ceb2ee92562a09c4165fb47.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/ff7ccef6a6b79c6417ee8367946b0aec.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-aad81770a113.webp?v=1774478068",
+            "thumb_key": "thumbs_thapcam/kaytee-aad81770a113.webp"
+          }
+        },
+    {
+      "id": "live",
+      "name": "🔴 Live",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "NHK-logo",
+          "name": "NHK Logo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/NHK.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "NHK-source",
+              "name": "NHK Source",
+              "contents": [
+                {
+                  "id": "NHK-Source-1",
+                  "name": "NHK",
+                  "streams": [
+                    {
+                      "id": "NHK-stream",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "NHK-stream-link",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/elise-mertenszhang-shuai-vs-hunter-s--pegula-j-0420-26-03-2026/318066"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTA Miami, USA Women Doubles",
+            "team_a": "Elise Mertens/Zhang Shuai",
+            "team_b": "Hunter S / Pegula J",
+            "logo_a": "https://thapcamtvbc.mobi/img/soccer.svg",
+            "logo_b": "https://thapcamtvbc.mobi/img/soccer.svg",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-0e82ab3724db.webp?v=1774478070",
+            "thumb_key": "thumbs_thapcam/kaytee-0e82ab3724db.webp"
+          }
+        },
+        {
+          "id": "cna-news",
+          "name": "CNA",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/CNA.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-CNA",
+              "name": "CNA",
+              "contents": [
+                {
+                  "id": "ct-CNA",
+                  "name": "CNA",
+                  "streams": [
+                    {
+                      "id": "st-CNA",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-CNA",
+                          "name": "CNA",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/atletico-tucuman-vs-sportivo-barracas-0500-26-03-2026/320874"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Copa Argentina",
+            "team_a": "Atletico Tucuman",
+            "team_b": "Sportivo Barracas",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/2d87cf3b426597f02435e2c72e8def93.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/c9ac34f38d3730f978879e2840555ef8.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-7ea9eac97c7d.webp?v=1774478069",
+            "thumb_key": "thumbs_thapcam/kaytee-7ea9eac97c7d.webp"
+          }
+        },
+        {
+          "id": "france24-news",
+          "name": "FRANCE 24",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/france-24.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-france24",
+              "name": "France 24",
+              "contents": [
+                {
+                  "id": "ct-france24",
+                  "name": "France 24",
+                  "streams": [
+                    {
+                      "id": "st-france24",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-france24",
+                          "name": "France 24",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/deportivo-riestra-vs-san-lorenzo-0500-26-03-2026/320898"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d2d4e206bc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/02b7a7abd183ba4d9ce4bf38e02917df/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/deportivo-riestra-vs-san-lorenzo-0500-26-03-2026/320898"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Argentine Division 1",
+            "team_a": "Deportivo Riestra",
+            "team_b": "San Lorenzo",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/b9eb3a2ccc44b65d7bd365ad417ddb04.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/65d05eaf7edc601ae236107417b01cbf.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-df8a953542da.webp?v=1774478069",
+            "thumb_key": "thumbs_thapcam/kaytee-df8a953542da.webp"
+          }
+        },
+        {
+          "id": "vtv1-hd",
+          "name": "VTV1 HD",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV1.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-VTV1",
+              "name": "VTV1",
+              "contents": [
+                {
+                  "id": "ct-VTV1",
+                  "name": "VTV1",
+                  "streams": [
+                    {
+                      "id": "st-VTV1",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-VTV1",
+                          "name": "VTV1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/aryna-sabalenka-vs-hailey-baptiste-0600-26-03-2026/318054"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTA Miami, USA Women Singles",
+            "team_a": "Aryna Sabalenka",
+            "team_b": "Hailey Baptiste",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/02dafb75bfa38f4c3a711fed23dad19b.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/23df05ffaff10b36eb76b50c4ba70958.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-bef72dae61e7.webp?v=1774478065",
+            "thumb_key": "thumbs_thapcam/kaytee-bef72dae61e7.webp"
+          }
+        },
+        {
+          "id": "VTV2-HD",
+          "name": "VTV2",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV2.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-VTV2",
+              "name": "VTV2",
+              "contents": [
+                {
+                  "id": "ct-VTV2",
+                  "name": "VTV2",
+                  "streams": [
+                    {
+                      "id": "st-VTV2",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-VTV2",
+                          "name": "VTV2",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live-a.fptplay53.net/live/media/VTV2HD/live_hls_avc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/philadelphia-76ers-vs-chicago-bulls-0600-26-03-2026/321615"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Philadelphia 76ers",
+            "team_b": "Chicago Bulls",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/06e7bde6cca98873fe971fad4e67a9b6.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/f15ed15d914b6a608e9a396f03c755b0.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-6bb211f3eacf.webp?v=1774478066",
+            "thumb_key": "thumbs_thapcam/kaytee-6bb211f3eacf.webp"
+          }
+        },
+        {
+          "id": "vtv3-hd",
+          "name": "VTV3",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV3.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-VTV3",
+              "name": "VTV3 HD",
+              "contents": [
+                {
+                  "id": "ct-VTV3",
+                  "name": "VTV3",
+                  "streams": [
+                    {
+                      "id": "st-VTV3",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-VTV3",
+                          "name": "VTV3",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/indiana-pacers-vs-los-angeles-lakers-0600-26-03-2026/321618"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Indiana Pacers",
+            "team_b": "Los Angeles Lakers",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/6f313b682482799762cf60dbc30dbfae.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/fa6f985041ec3f9729172380ae9cebf8.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-880941aa97f2.webp?v=1774478069",
+            "thumb_key": "thumbs_thapcam/kaytee-880941aa97f2.webp"
+          }
+        },
+        {
+          "id": "vtv4-hd",
+          "name": "VTV4 HD",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV4.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-VTV4",
+              "name": "VTV4",
+              "contents": [
+                {
+                  "id": "ct-VTV4",
+                  "name": "VTV4",
+                  "streams": [
+                    {
+                      "id": "st-VTV4",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-VTV4",
+                          "name": "VTV4",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live-a.fptplay53.net/live/media/VTV4HD/live_hls_avc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/lexington-vs-brooklyn-fc-0600-26-03-2026/320922"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "USL Championship",
+            "team_a": "Lexington",
+            "team_b": "Brooklyn FC",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/9b0e43ca0195227d6fefc8b082963330.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/362e93771930fdf18e2fbfbb2a991e1c.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-65ab53e23bf5.webp?v=1774478070",
+            "thumb_key": "thumbs_thapcam/kaytee-65ab53e23bf5.webp"
+          }
+        },
+        {
+          "id": "vtv5-hd",
+          "name": "VTV5 HD",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTV5.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-VTV5",
+              "name": "VTV5 HD",
+              "contents": [
+                {
+                  "id": "ct-VTV5",
+                  "name": "VTV5 HD",
+                  "streams": [
+                    {
+                      "id": "st-VTV5",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-VTV5",
+                          "name": "VTV5",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-atlanta-hawks-0600-26-03-2026/321627"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Detroit Pistons",
+            "team_b": "Atlanta Hawks",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/3f82122a48e98eaccc5e71307eba801a.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/4e67b14905a05af9e1bd04406bf8690f.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-c9da5063c694.webp?v=1774478070",
+            "thumb_key": "thumbs_thapcam/kaytee-c9da5063c694.webp"
+          }
+        },
+        {
+          "id": "vtv-cantho",
+          "name": "VTV Can Tho",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/VTVCantho.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-VTVCanTho",
+              "name": "VTVCanTho",
+              "contents": [
+                {
+                  "id": "ct-VTVCanTho",
+                  "name": "VTVCanTho",
+                  "streams": [
+                    {
+                      "id": "st-VTVCanTho",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-VTVCanTho",
+                          "name": "VTVCanTho",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://live.fptplay53.net/fnxch2/vtvct_abr.smil/chunklist.m3u8"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "USL Championship",
+            "team_a": "Sporting Jax",
+            "team_b": "Miami FC",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/35fa04bcfe9565d2d68cfe397075bf07.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/10e3c287008eed128a8c53f8f55c26bd.png",
+            "thumb": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/thumbs_thapcam/kaytee-22edada0e6f1.webp?v=1774478067",
+            "thumb_key": "thumbs_thapcam/kaytee-22edada0e6f1.webp"
+          }
+        }
+        
+      ]
+    }
+  ]
+}
