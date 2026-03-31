@@ -1,7 +1,7 @@
 {
-  "id": "MI BOX TV 6",
+  "id": "MI BOX TV 7",
   "url": "https://tinyurl.com/5n8u42jm",
-  "name": "MI BOX TV 6",
+  "name": "MI BOX TV 7",
   "color": "#1cb57a",
   "grid_number": 3,
   "image": {
@@ -60,7 +60,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/elise-mertenszhang-shuai-vs-hunter-s--pegula-j-0420-26-03-2026/318066"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -120,7 +120,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/elise-mertenszhang-shuai-vs-hunter-s--pegula-j-0420-26-03-2026/318066"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -180,7 +180,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/elise-mertenszhang-shuai-vs-hunter-s--pegula-j-0420-26-03-2026/318066"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -240,7 +240,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/elise-mertenszhang-shuai-vs-hunter-s--pegula-j-0420-26-03-2026/318066"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -300,7 +300,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/atletico-tucuman-vs-sportivo-barracas-0500-26-03-2026/320874"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -360,7 +360,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/deportivo-riestra-vs-san-lorenzo-0500-26-03-2026/320898"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -377,7 +377,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/deportivo-riestra-vs-san-lorenzo-0500-26-03-2026/320898"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -437,7 +437,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/aryna-sabalenka-vs-hailey-baptiste-0600-26-03-2026/318054"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -497,7 +497,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/philadelphia-76ers-vs-chicago-bulls-0600-26-03-2026/321615"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -557,7 +557,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/indiana-pacers-vs-los-angeles-lakers-0600-26-03-2026/321618"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -617,7 +617,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/lexington-vs-brooklyn-fc-0600-26-03-2026/320922"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -677,7 +677,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://thapcamtvbc.mobi/truc-tiep/detroit-pistons-vs-atlanta-hawks-0600-26-03-2026/321627"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
@@ -733,11 +733,11 @@
                           "name": "VTVCanTho",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "url": "https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://live.fptplay53.net/fnxch2/vtvct_abr.smil/chunklist.m3u8"
+                              "value": ""
                             },
                             {
                               "key": "User-Agent",
