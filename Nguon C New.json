@@ -1,10 +1,10 @@
 {
-  "id": "zzz-nguonc",
-  "name": "Zzz - NguonC",
+  "id": "nguonc-news",
+  "name": "NguonC News",
   "url": "https://media.hth4nh.eu.org/nguonc",
   "color": "#004444",
   "image": {
-    "url": "https://media.hth4nh.eu.org/nguonc/../static/img/logo-nguonc.png",
+    "url": "https://raw.githubusercontent.com/Miky847/Logo/refs/heads/main/film.png",
     "type": "cover"
   },
   "description": "NGUỒN PHIM - Website cung cấp dữ liệu phim nhanh chất lượng cao. Phim online Vietsub, Thuyết minh, lồng tiếng chất lượng. Nguồn phim vietsub chất lượng cao cập nhật nhanh nhất.",
