@@ -56,7 +56,7 @@
                           "name": "aljazeera",
                           "type": "hls",
                           "default": true,
-                          "url": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
+                          "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
