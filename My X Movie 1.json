@@ -1,0 +1,819 @@
+{
+  "id": "MyXMovieList",
+  "url": "https://tinyurl.com/5n7h2xy4",
+  "name": "My X Movie List",
+  "color": "#1cb57a",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/netflix.png"
+  },
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 Live",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "Tra Tấn - Orgies of Edo",
+          "name": "Tra Tấn - Orgies of Edo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20260312-1/06e6752b216039a2c573b273d9675a40.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "Tra Tấn - Orgies of Edo-source",
+              "name": "Tra Tấn - Orgies of Edo Source",
+              "contents": [
+                {
+                  "id": "Tra Tấn - Orgies of Edo-Source-1",
+                  "name": "Tra Tấn - Orgies of Edo",
+                  "streams": [
+                    {
+                      "id": "Tra Tấn - Orgies of Edo-stream",
+                      "name": "Tra Tấn - Orgies of Edo",
+                      "stream_links": [
+                        {
+                          "id": "Tra Tấn - Orgies of Edo-stream-link",
+                          "name": "Tra Tấn - Orgies of Edo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260319/Wnl1iLrm/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline",
+          "name": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20251205-1/73a8f5b286161f8b140e06c0990eae44.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline-source",
+              "name": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline Source",
+              "contents": [
+                {
+                  "id": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline-Source-1",
+                  "name": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline",
+                  "streams": [
+                    {
+                      "id": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline-stream",
+                      "name": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline",
+                      "stream_links": [
+                        {
+                          "id": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline-stream-link",
+                          "name": "Bí Mật Sau Tiệm Làm Đẹp - Female Beautician Rope Discipline",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20251205/XJUSnLnp/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Khoái cảm - Safe Word",
+          "name": "Khoái cảm - Safe Word",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250515-1/3dd6326b28cf75c3bd561b9570705fb6.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "Khoái cảm - Safe Word-source",
+              "name": "Khoái cảm - Safe Word Source",
+              "contents": [
+                {
+                  "id": "Khoái cảm - Safe Word-Source-1",
+                  "name": "Khoái cảm - Safe Word",
+                  "streams": [
+                    {
+                      "id": "Khoái cảm - Safe Word-stream",
+                      "name": "Khoái cảm - Safe Word",
+                      "stream_links": [
+                        {
+                          "id": "Khoái cảm - Safe Word-stream-link",
+                          "name": "Khoái cảm - Safe Word",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s5.phim1280.tv/20250516/aZBpSlob/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Đông Kinh trụy lạc - Tokyo Decadence",
+          "name": "Đông Kinh trụy lạc - Tokyo Decadence",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250513-1/00656dff448e2fc5eb239c7c84d83674.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "Đông Kinh trụy lạc - Tokyo Decadence-source",
+              "name": "Đông Kinh trụy lạc - Tokyo Decadence Source",
+              "contents": [
+                {
+                  "id": "Đông Kinh trụy lạc - Tokyo Decadence-Source-1",
+                  "name": "Đông Kinh trụy lạc - Tokyo Decadence",
+                  "streams": [
+                    {
+                      "id": "Đông Kinh trụy lạc - Tokyo Decadence-stream",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "Đông Kinh trụy lạc - Tokyo Decadence-stream-link",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s5.phim1280.tv/20250513/qtQLtgwy/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Ngôi Sao Người Lớn - Maria Azama: Da Best Porn Star",
+          "name": "Ngôi Sao Người Lớn - Maria Azama: Da Best Porn Star",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20251216-1/fbc06ef99dbeb12e9ae64f2e301b603e.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Ngôi Sao Người Lớn - Maria Azama: Da Best Porn Star",
+              "name": "Ngôi Sao Người Lớn - Maria Azama: Da Best Porn Star",
+              "contents": [
+                {
+                  "id": "ct-Ngôi Sao Người Lớn - Maria Azama: Da Best Porn Star",
+                  "name": "Ngôi Sao Người Lớn - Maria Azama: Da Best Porn Star",
+                  "streams": [
+                    {
+                      "id": "st-Ngôi Sao Người Lớn - Maria Azama: Da Best Porn Star",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Ngôi Sao Người Lớn - Maria Azama: Da Best Porn Star",
+                          "name": "Ngôi Sao Người Lớn - Maria Azama: Da Best Porn Star",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20251216/6epFmhjk/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Nữ Sinh Ngoan Hiền - Top 1",
+          "name": "Nữ Sinh Ngoan Hiền - Top 1",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20240910-1/1c7285972d8a8301975d6e9bd9ab0501.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Nữ Sinh Ngoan Hiền - Top 1",
+              "name": "Nữ Sinh Ngoan Hiền - Top 1",
+              "contents": [
+                {
+                  "id": "ct-Nữ Sinh Ngoan Hiền - Top 1",
+                  "name": "Nữ Sinh Ngoan Hiền - Top 1",
+                  "streams": [
+                    {
+                      "id": "st-Nữ Sinh Ngoan Hiền - Top 1",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Nữ Sinh Ngoan Hiền - Top 1",
+                          "name": "Nữ Sinh Ngoan Hiền - Top 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s5.phim1280.tv/20240911/Dse3g1LF/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d2d4e206bc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "TroChoiVuongQuyenPhan7T7",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 7",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan7T7",
+              "name": "TroChoiVuongQuyenPhan7T7",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan7T7",
+                  "name": "TroChoiVuongQuyenPhan7T7",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan7T7",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan7T7",
+                          "name": "TroChoiVuongQuyenPhan7T7",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/Rdhiovoy/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "TroChoiVuongQuyenPhan8T1-HD",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 1",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T1",
+              "name": "TroChoiVuongQuyenPhan8T1",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T1",
+                  "name": "TroChoiVuongQuyenPhan8T1",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T1",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T1",
+                          "name": "TroChoiVuongQuyenPhan8T1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/hCuhDYMm/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "TroChoiVuongQuyenPhan8T2-hd",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 2",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T2",
+              "name": "VTV3 HD",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T2",
+                  "name": "TroChoiVuongQuyenPhan8T2",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T2",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T2",
+                          "name": "TroChoiVuongQuyenPhan8T2",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/WUYOWwC1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "TroChoiVuongQuyenPhan8T3-hd",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 3",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T3",
+              "name": "TroChoiVuongQuyenPhan8T3",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T3",
+                  "name": "VTV4",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T3",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T3",
+                          "name": "TroChoiVuongQuyenPhan8T3",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/bZvDRc0k/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "TroChoiVuongQuyenPhan8T4-hd",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 4",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T4",
+              "name": "TroChoiVuongQuyenPhan8T4 HD",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T4",
+                  "name": "TroChoiVuongQuyenPhan8T4",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T4",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T4",
+                          "name": "TroChoiVuongQuyenPhan8T4",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/9OzRpTSr/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "TroChoiVuongQuyenPhan8T5",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 5",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T5",
+              "name": "TroChoiVuongQuyenPhan8T5",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T5",
+                  "name": "TroChoiVuongQuyenPhan8T5",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T5",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T5",
+                          "name": "TroChoiVuongQuyenPhan8T5",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/Vtcjx71z/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
