@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "aljazeera-logo",
-          "name": "Aljazeera Logo",
+          "id": "TroChoiVuongQuyenPhan7T1",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 1",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -40,23 +40,23 @@
           ],
           "sources": [
             {
-              "id": "aljazeera-source",
-              "name": "aljazeera Source",
+              "id": "TroChoiVuongQuyenPhan7T1-source",
+              "name": "TroChoiVuongQuyenPhan7T1 Source",
               "contents": [
                 {
-                  "id": "aljazeera-Source-1",
-                  "name": "Al Jazeera",
+                  "id": "TroChoiVuongQuyenPhan7T1-Source-1",
+                  "name": "TroChoiVuongQuyenPhan7T1",
                   "streams": [
                     {
-                      "id": "aljazeera-stream",
-                      "name": "aljazeera",
+                      "id": "TroChoiVuongQuyenPhan7T1-stream",
+                      "name": "TroChoiVuongQuyenPhan7T1",
                       "stream_links": [
                         {
-                          "id": "aljazeera-stream-link",
-                          "name": "aljazeera",
+                          "id": "TroChoiVuongQuyenPhan7T1-stream-link",
+                          "name": "TroChoiVuongQuyenPhan7T1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
+                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/UNJTO8RK/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -77,8 +77,8 @@
           ]
         },
         {
-          "id": "BBC-logo",
-          "name": "BBC Logo",
+          "id": "TroChoiVuongQuyenPhan7T2",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 2",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -100,23 +100,23 @@
           ],
           "sources": [
             {
-              "id": "BBC-source",
-              "name": "BBC Source",
+              "id": "TroChoiVuongQuyenPhan7T2-source",
+              "name": "TroChoiVuongQuyenPhan7T2 Source",
               "contents": [
                 {
-                  "id": "BBC-Source-1",
-                  "name": "BBC",
+                  "id": "TroChoiVuongQuyenPhan7T2-Source-1",
+                  "name": "TroChoiVuongQuyenPhan7T2",
                   "streams": [
                     {
-                      "id": "BBC-stream",
-                      "name": "BBC",
+                      "id": "TroChoiVuongQuyenPhan7T2-stream",
+                      "name": "TroChoiVuongQuyenPhan7T2",
                       "stream_links": [
                         {
-                          "id": "BBC-stream-link",
-                          "name": "BBC",
+                          "id": "TroChoiVuongQuyenPhan7T2-stream-link",
+                          "name": "TroChoiVuongQuyenPhan7T2",
                           "type": "hls",
                           "default": true,
-                          "url": "https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8",
+                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/04EO0APj/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -137,8 +137,8 @@
           ]
         },
         {
-          "id": "DW-logo",
-          "name": "DW Logo",
+          "id": "TroChoiVuongQuyenPhan7T3",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 3",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -160,23 +160,23 @@
           ],
           "sources": [
             {
-              "id": "DW-source",
-              "name": "DW Source",
+              "id": "TroChoiVuongQuyenPhan7T3-source",
+              "name": "TroChoiVuongQuyenPhan7T3 Source",
               "contents": [
                 {
-                  "id": "DW-Source-1",
-                  "name": "DW",
+                  "id": "TroChoiVuongQuyenPhan7T3-Source-1",
+                  "name": "TroChoiVuongQuyenPhan7T3",
                   "streams": [
                     {
-                      "id": "DW-stream",
-                      "name": "DW",
+                      "id": "TroChoiVuongQuyenPhan7T3-stream",
+                      "name": "TroChoiVuongQuyenPhan7T3",
                       "stream_links": [
                         {
-                          "id": "DW-stream-link",
-                          "name": "DW",
+                          "id": "TroChoiVuongQuyenPhan7T3-stream-link",
+                          "name": "TroChoiVuongQuyenPhan7T3",
                           "type": "hls",
                           "default": true,
-                          "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8",
+                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/YS2U0t2J/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -197,8 +197,8 @@
           ]
         },
         {
-          "id": "NHK-logo",
-          "name": "NHK Logo",
+          "id": "TroChoiVuongQuyenPhan7T4",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 4",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -220,23 +220,23 @@
           ],
           "sources": [
             {
-              "id": "NHK-source",
-              "name": "NHK Source",
+              "id": "TroChoiVuongQuyenPhan7T4-source",
+              "name": "TroChoiVuongQuyenPhan7T4 Source",
               "contents": [
                 {
-                  "id": "NHK-Source-1",
-                  "name": "NHK",
+                  "id": "TroChoiVuongQuyenPhan7T4-Source-1",
+                  "name": "TroChoiVuongQuyenPhan7T4",
                   "streams": [
                     {
-                      "id": "NHK-stream",
+                      "id": "TroChoiVuongQuyenPhan7T4-stream",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "NHK-stream-link",
+                          "id": "TroChoiVuongQuyenPhan7T4-stream-link",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/ac575iWm/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -257,8 +257,8 @@
           ]
         },
         {
-          "id": "cna-news",
-          "name": "CNA",
+          "id": "Trò Chơi Vương Quyền (Phần 7) - 5",
+          "name": "TroChoiVuongQuyenPhan7T4",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -280,23 +280,23 @@
           ],
           "sources": [
             {
-              "id": "src-CNA",
-              "name": "CNA",
+              "id": "src-TroChoiVuongQuyenPhan7T4",
+              "name": "TroChoiVuongQuyenPhan7T4",
               "contents": [
                 {
-                  "id": "ct-CNA",
-                  "name": "CNA",
+                  "id": "ct-TroChoiVuongQuyenPhan7T4",
+                  "name": "TroChoiVuongQuyenPhan7T4",
                   "streams": [
                     {
-                      "id": "st-CNA",
+                      "id": "st-TroChoiVuongQuyenPhan7T4",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-CNA",
-                          "name": "CNA",
+                          "id": "lnk-TroChoiVuongQuyenPhan7T4",
+                          "name": "TroChoiVuongQuyenPhan7T4",
                           "type": "hls",
                           "default": true,
-                          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112",
+                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/JkcXQgSG/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -317,8 +317,8 @@
           ]
         },
         {
-          "id": "france24-news",
-          "name": "FRANCE 24",
+          "id": "TroChoiVuongQuyenPhan7T6",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 6",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -340,23 +340,23 @@
           ],
           "sources": [
             {
-              "id": "src-france24",
-              "name": "France 24",
+              "id": "src-TroChoiVuongQuyenPhan7T6",
+              "name": "TroChoiVuongQuyenPhan7T6",
               "contents": [
                 {
-                  "id": "ct-france24",
-                  "name": "France 24",
+                  "id": "ct-TroChoiVuongQuyenPhan7T6",
+                  "name": "TroChoiVuongQuyenPhan7T6",
                   "streams": [
                     {
-                      "id": "st-france24",
+                      "id": "st-TroChoiVuongQuyenPhan7T6",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-france24",
-                          "name": "France 24",
+                          "id": "lnk-TroChoiVuongQuyenPhan7T6",
+                          "name": "TroChoiVuongQuyenPhan7T6",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -373,7 +373,7 @@
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/02b7a7abd183ba4d9ce4bf38e02917df/playlist.m3u8",
+                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -394,8 +394,8 @@
           ]
         },
         {
-          "id": "vtv1-hd",
-          "name": "VTV1 HD",
+          "id": "TroChoiVuongQuyenPhan7T7",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 7",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -417,23 +417,23 @@
           ],
           "sources": [
             {
-              "id": "src-VTV1",
-              "name": "VTV1",
+              "id": "src-TroChoiVuongQuyenPhan7T7",
+              "name": "TroChoiVuongQuyenPhan7T7",
               "contents": [
                 {
-                  "id": "ct-VTV1",
-                  "name": "VTV1",
+                  "id": "ct-TroChoiVuongQuyenPhan7T7",
+                  "name": "TroChoiVuongQuyenPhan7T7",
                   "streams": [
                     {
-                      "id": "st-VTV1",
+                      "id": "st-TroChoiVuongQuyenPhan7T7",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-VTV1",
-                          "name": "VTV1",
+                          "id": "lnk-TroChoiVuongQuyenPhan7T7",
+                          "name": "TroChoiVuongQuyenPhan7T7",
                           "type": "hls",
                           "default": true,
-                          "url": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
+                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/Rdhiovoy/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
