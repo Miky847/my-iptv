@@ -56,7 +56,7 @@
                           "name": "TroChoiVuongQuyenPhan7T1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/UNJTO8RK/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/UNJTO8RK/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -116,7 +116,7 @@
                           "name": "TroChoiVuongQuyenPhan7T2",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/04EO0APj/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/04EO0APj/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -176,7 +176,7 @@
                           "name": "TroChoiVuongQuyenPhan7T3",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/YS2U0t2J/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/YS2U0t2J/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -236,7 +236,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/ac575iWm/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/ac575iWm/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -296,7 +296,7 @@
                           "name": "TroChoiVuongQuyenPhan7T4",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/JkcXQgSG/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/JkcXQgSG/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -356,7 +356,7 @@
                           "name": "TroChoiVuongQuyenPhan7T6",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -373,7 +373,7 @@
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -433,7 +433,7 @@
                           "name": "TroChoiVuongQuyenPhan7T7",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/Rdhiovoy/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/Rdhiovoy/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -493,7 +493,7 @@
                           "name": "TroChoiVuongQuyenPhan8T1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/hCuhDYMm/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/hCuhDYMm/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -553,7 +553,7 @@
                           "name": "TroChoiVuongQuyenPhan8T2",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/WUYOWwC1/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/WUYOWwC1/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -613,7 +613,7 @@
                           "name": "TroChoiVuongQuyenPhan8T3",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/bZvDRc0k/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/bZvDRc0k/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -673,7 +673,7 @@
                           "name": "TroChoiVuongQuyenPhan8T4",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/9OzRpTSr/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/9OzRpTSr/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -733,7 +733,7 @@
                           "name": "TroChoiVuongQuyenPhan8T5",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240730/Vtcjx71z/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240730/Vtcjx71z/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -793,7 +793,7 @@
                           "name": "TroChoiVuongQuyenPhan8T6",
                           "type": "hls",
                           "default": true,
-                          "url": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
