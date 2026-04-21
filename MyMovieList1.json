@@ -1,205 +1,73 @@
 {
-  "id": "MyMovieList1",
   "name": "My Movie List1",
   "groups": [
     {
-      "id": "live",
       "name": "🔴 Live",
       "channels": [
         {
-          "id": "GOT-P7-1",
           "name": "Trò Chơi Vương Quyền P7 - Tập 1",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/UNJTO8RK/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/UNJTO8RK/index.m3u8"
         },
         {
-          "id": "GOT-P7-2",
           "name": "Trò Chơi Vương Quyền P7 - Tập 2",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/04EO0APj/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/04EO0APj/index.m3u8"
         },
         {
-          "id": "GOT-P7-3",
           "name": "Trò Chơi Vương Quyền P7 - Tập 3",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/YS2U0t2J/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/YS2U0t2J/index.m3u8"
         },
         {
-          "id": "GOT-P7-4",
           "name": "Trò Chơi Vương Quyền P7 - Tập 4",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/ac575iWm/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/ac575iWm/index.m3u8"
         },
         {
-          "id": "GOT-P7-5",
           "name": "Trò Chơi Vương Quyền P7 - Tập 5",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/JkcXQgSG/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/JkcXQgSG/index.m3u8"
         },
         {
-          "id": "GOT-P7-6",
           "name": "Trò Chơi Vương Quyền P7 - Tập 6",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8"
         },
         {
-          "id": "GOT-P7-7",
           "name": "Trò Chơi Vương Quyền P7 - Tập 7",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/Rdhiovoy/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/Rdhiovoy/index.m3u8"
         },
         {
-          "id": "GOT-P8-1",
           "name": "Trò Chơi Vương Quyền P8 - Tập 1",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/hCuhDYMm/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/hCuhDYMm/index.m3u8"
         },
         {
-          "id": "GOT-P8-2",
           "name": "Trò Chơi Vương Quyền P8 - Tập 2",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/WUYOWwC1/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/WUYOWwC1/index.m3u8"
         },
         {
-          "id": "GOT-P8-3",
           "name": "Trò Chơi Vương Quyền P8 - Tập 3",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/bZvDRc0k/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/bZvDRc0k/index.m3u8"
         },
         {
-          "id": "GOT-P8-4",
           "name": "Trò Chơi Vương Quyền P8 - Tập 4",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/9OzRpTSr/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/9OzRpTSr/index.m3u8"
         },
         {
-          "id": "GOT-P8-5",
           "name": "Trò Chơi Vương Quyền P8 - Tập 5",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s3.phim1280.tv/20240730/Vtcjx71z/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s3.phim1280.tv/20240730/Vtcjx71z/index.m3u8"
         },
         {
-          "id": "GOT-P8-6",
           "name": "Trò Chơi Vương Quyền P8 - Tập 6",
           "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "sources": [{
-            "contents": [{
-              "streams": [{
-                "stream_links": [{
-                  "type": "hls",
-                  "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8"
-                }]
-              }]
-            }]
-          }]
+          "link": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8"
         }
       ]
     }
