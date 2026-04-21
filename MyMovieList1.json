@@ -1,73 +1,817 @@
 {
-  "name": "My Movie List1",
+  "id": "MyMovieList1",
+  "url": "https://tinyurl.com/2jz5dkcr",
+  "name": "My Movie List 1",
+  "color": "#1cb57a",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/netflix.png"
+  },
   "groups": [
     {
+      "id": "live",
       "name": "🔴 Live",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
       "channels": [
         {
-          "name": "Trò Chơi Vương Quyền P7 - Tập 1",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "link": "https://s3.phim1280.tv/20240730/UNJTO8RK/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan7T1",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 1",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "TroChoiVuongQuyenPhan7T1-source",
+              "name": "TroChoiVuongQuyenPhan7T1 Source",
+              "contents": [
+                {
+                  "id": "TroChoiVuongQuyenPhan7T1-Source-1",
+                  "name": "TroChoiVuongQuyenPhan7T1",
+                  "streams": [
+                    {
+                      "id": "TroChoiVuongQuyenPhan7T1-stream",
+                      "name": "TroChoiVuongQuyenPhan7T1",
+                      "stream_links": [
+                        {
+                          "id": "TroChoiVuongQuyenPhan7T1-stream-link",
+                          "name": "TroChoiVuongQuyenPhan7T1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/UNJTO8RK/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P7 - Tập 2",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "link": "https://s3.phim1280.tv/20240730/04EO0APj/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan7T2",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 2",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "TroChoiVuongQuyenPhan7T2-source",
+              "name": "TroChoiVuongQuyenPhan7T2 Source",
+              "contents": [
+                {
+                  "id": "TroChoiVuongQuyenPhan7T2-Source-1",
+                  "name": "TroChoiVuongQuyenPhan7T2",
+                  "streams": [
+                    {
+                      "id": "TroChoiVuongQuyenPhan7T2-stream",
+                      "name": "TroChoiVuongQuyenPhan7T2",
+                      "stream_links": [
+                        {
+                          "id": "TroChoiVuongQuyenPhan7T2-stream-link",
+                          "name": "TroChoiVuongQuyenPhan7T2",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/04EO0APj/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P7 - Tập 3",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "link": "https://s3.phim1280.tv/20240730/YS2U0t2J/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan7T3",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 3",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "TroChoiVuongQuyenPhan7T3-source",
+              "name": "TroChoiVuongQuyenPhan7T3 Source",
+              "contents": [
+                {
+                  "id": "TroChoiVuongQuyenPhan7T3-Source-1",
+                  "name": "TroChoiVuongQuyenPhan7T3",
+                  "streams": [
+                    {
+                      "id": "TroChoiVuongQuyenPhan7T3-stream",
+                      "name": "TroChoiVuongQuyenPhan7T3",
+                      "stream_links": [
+                        {
+                          "id": "TroChoiVuongQuyenPhan7T3-stream-link",
+                          "name": "TroChoiVuongQuyenPhan7T3",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/YS2U0t2J/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P7 - Tập 4",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "link": "https://s3.phim1280.tv/20240730/ac575iWm/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan7T4",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 4",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "TroChoiVuongQuyenPhan7T4-source",
+              "name": "TroChoiVuongQuyenPhan7T4 Source",
+              "contents": [
+                {
+                  "id": "TroChoiVuongQuyenPhan7T4-Source-1",
+                  "name": "TroChoiVuongQuyenPhan7T4",
+                  "streams": [
+                    {
+                      "id": "TroChoiVuongQuyenPhan7T4-stream",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "TroChoiVuongQuyenPhan7T4-stream-link",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/ac575iWm/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P7 - Tập 5",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "link": "https://s3.phim1280.tv/20240730/JkcXQgSG/index.m3u8"
+          "id": "Trò Chơi Vương Quyền (Phần 7) - 5",
+          "name": "TroChoiVuongQuyenPhan7T4",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan7T4",
+              "name": "TroChoiVuongQuyenPhan7T4",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan7T4",
+                  "name": "TroChoiVuongQuyenPhan7T4",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan7T4",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan7T4",
+                          "name": "TroChoiVuongQuyenPhan7T4",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/JkcXQgSG/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P7 - Tập 6",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "link": "https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan7T6",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan7T6",
+              "name": "TroChoiVuongQuyenPhan7T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan7T6",
+                  "name": "TroChoiVuongQuyenPhan7T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan7T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan7T6",
+                          "name": "TroChoiVuongQuyenPhan7T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d2d4e206bc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://s3.phim1280.tv/20240730/9YCWp8BK/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P7 - Tập 7",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
-          "link": "https://s3.phim1280.tv/20240730/Rdhiovoy/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan7T7",
+          "name": "Trò Chơi Vương Quyền (Phần 7) - 7",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan7T7",
+              "name": "TroChoiVuongQuyenPhan7T7",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan7T7",
+                  "name": "TroChoiVuongQuyenPhan7T7",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan7T7",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan7T7",
+                          "name": "TroChoiVuongQuyenPhan7T7",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/Rdhiovoy/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P8 - Tập 1",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "link": "https://s3.phim1280.tv/20240730/hCuhDYMm/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan8T1-HD",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 1",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T1",
+              "name": "TroChoiVuongQuyenPhan8T1",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T1",
+                  "name": "TroChoiVuongQuyenPhan8T1",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T1",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T1",
+                          "name": "TroChoiVuongQuyenPhan8T1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/hCuhDYMm/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P8 - Tập 2",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "link": "https://s3.phim1280.tv/20240730/WUYOWwC1/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan8T2-hd",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 2",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T2",
+              "name": "VTV3 HD",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T2",
+                  "name": "TroChoiVuongQuyenPhan8T2",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T2",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T2",
+                          "name": "TroChoiVuongQuyenPhan8T2",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/WUYOWwC1/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P8 - Tập 3",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "link": "https://s3.phim1280.tv/20240730/bZvDRc0k/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan8T3-hd",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 3",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T3",
+              "name": "TroChoiVuongQuyenPhan8T3",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T3",
+                  "name": "VTV4",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T3",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T3",
+                          "name": "TroChoiVuongQuyenPhan8T3",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/bZvDRc0k/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P8 - Tập 4",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "link": "https://s3.phim1280.tv/20240730/9OzRpTSr/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan8T4-hd",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 4",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T4",
+              "name": "TroChoiVuongQuyenPhan8T4 HD",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T4",
+                  "name": "TroChoiVuongQuyenPhan8T4",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T4",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T4",
+                          "name": "TroChoiVuongQuyenPhan8T4",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/9OzRpTSr/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P8 - Tập 5",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "link": "https://s3.phim1280.tv/20240730/Vtcjx71z/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan8T5",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 5",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T5",
+              "name": "TroChoiVuongQuyenPhan8T5",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T5",
+                  "name": "TroChoiVuongQuyenPhan8T5",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T5",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T5",
+                          "name": "TroChoiVuongQuyenPhan8T5",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240730/Vtcjx71z/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "Trò Chơi Vương Quyền P8 - Tập 6",
-          "image": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-          "link": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8"
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
