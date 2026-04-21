@@ -1654,8 +1654,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Hồ Bơi Vô Cực - Infinity Pool",
+          "name": "Hồ Bơi Vô Cực - Infinity Pool",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1663,7 +1663,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20230911-1/d209e38463d82320e580e13fe571a2df.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -1677,23 +1677,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Hồ Bơi Vô Cực - Infinity Pool",
+              "name": "Hồ Bơi Vô Cực - Infinity Pool",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Hồ Bơi Vô Cực - Infinity Pool",
+                  "name": "Hồ Bơi Vô Cực - Infinity Pool",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Hồ Bơi Vô Cực - Infinity Pool",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Hồ Bơi Vô Cực - Infinity Pool",
+                          "name": "Hồ Bơi Vô Cực - Infinity Pool",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s3.phim1280.tv/20240619/agfVfvjJ/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1714,8 +1714,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+          "name": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1723,7 +1723,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20250614-1/6698157d21393e0523cff88e22d24311.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -1737,23 +1737,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+              "name": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+                  "name": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Đằng sau cổng tu viện - The True Story of the Nun of Monza",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+                          "name": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20250614/scib0Qns/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
