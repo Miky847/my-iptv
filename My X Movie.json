@@ -1892,7 +1892,2536 @@
               ]
             }
           ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },    
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
+              "contents": [
+                {
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "streams": [
+                    {
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
+        
+
+
+
+        
+
+
+        
+        
       ]
     }
   ]
