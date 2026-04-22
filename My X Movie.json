@@ -1774,8 +1774,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Chị em ác mộng - Nightmare Sisters",
+          "name": "Chị em ác mộng - Nightmare Sisters",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1783,7 +1783,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20260409-1/93c4484a7b2e8f3b526b1ea4e8d913b7.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -1797,23 +1797,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Chị em ác mộng - Nightmare Sisters",
+              "name": "Chị em ác mộng - Nightmare Sisters",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Chị em ác mộng - Nightmare Sisters",
+                  "name": "Chị em ác mộng - Nightmare Sisters",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Chị em ác mộng - Nightmare Sisters",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Chị em ác mộng - Nightmare Sisters",
+                          "name": "Chị em ác mộng - Nightmare Sisters",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20260410/dH6Aj1jz/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1834,8 +1834,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Nữ Quyến Rũ - Serpent's Lair",
+          "name": "Nữ Quyến Rũ - Serpent's Lair",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1843,7 +1843,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20260312-1/f060d787dc0d3c36264fb06ceae495da.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -1857,23 +1857,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Nữ Quyến Rũ - Serpent's Lair",
+              "name": "Nữ Quyến Rũ - Serpent's Lair",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Nữ Quyến Rũ - Serpent's Lair",
+                  "name": "Nữ Quyến Rũ - Serpent's Lair",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Nữ Quyến Rũ - Serpent's Lair",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Nữ Quyến Rũ - Serpent's Lair",
+                          "name": "Nữ Quyến Rũ - Serpent's Lair",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20260319/FvztlETH/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1894,8 +1894,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Làm Tình Trên Xe - Motorpsycho Maniacs / Sex Terrorists on Wheels",
+          "name": "Làm Tình Trên Xe - Motorpsycho Maniacs / Sex Terrorists on Wheels",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1903,7 +1903,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20260312-1/80d0ed5830e68fe9faae1e69404a8744.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -1917,23 +1917,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Làm Tình Trên Xe - Motorpsycho Maniacs / Sex Terrorists on Wheels",
+              "name": "Làm Tình Trên Xe - Motorpsycho Maniacs / Sex Terrorists on Wheels",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Làm Tình Trên Xe - Motorpsycho Maniacs / Sex Terrorists on Wheels",
+                  "name": "Làm Tình Trên Xe - Motorpsycho Maniacs / Sex Terrorists on Wheels",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Làm Tình Trên Xe - Motorpsycho Maniacs / Sex Terrorists on Wheels",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Làm Tình Trên Xe - Motorpsycho Maniacs / Sex Terrorists on Wheels",
+                          "name": "Làm Tình Trên Xe - Motorpsycho Maniacs / Sex Terrorists on Wheels",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20260320/0dj16noE/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1954,8 +1954,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Chuyến Bay Tình Yêu - Airplane 2025",
+          "name": "Chuyến Bay Tình Yêu - Airplane 2025",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1963,7 +1963,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20260318-1/4cd1004689b816bfb43fba2de07e3ea1.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -1977,23 +1977,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Chuyến Bay Tình Yêu - Airplane 2025",
+              "name": "Chuyến Bay Tình Yêu - Airplane 2025",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Chuyến Bay Tình Yêu - Airplane 2025",
+                  "name": "Chuyến Bay Tình Yêu - Airplane 2025",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Chuyến Bay Tình Yêu - Airplane 2025",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Chuyến Bay Tình Yêu - Airplane 2025",
+                          "name": "Chuyến Bay Tình Yêu - Airplane 2025",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20260319/L0KY0EOf/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2014,8 +2014,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Cám Dỗ Nguy Hiểm - Risqué",
+          "name": "Cám Dỗ Nguy Hiểm - Risqué",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2023,7 +2023,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20260120-1/71011c806ae398a1db9cb7a5b702cd5e.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -2037,23 +2037,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Cám Dỗ Nguy Hiểm - Risqué",
+              "name": "Cám Dỗ Nguy Hiểm - Risqué",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Cám Dỗ Nguy Hiểm - Risqué",
+                  "name": "Cám Dỗ Nguy Hiểm - Risqué",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Cám Dỗ Nguy Hiểm - Risqué",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Cám Dỗ Nguy Hiểm - Risqué",
+                          "name": "Cám Dỗ Nguy Hiểm - Risqué",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20260120/YdO0BZMz/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2074,8 +2074,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Nhắm Mắt Cưới Luôn - Beautiful Wedding",
+          "name": "Nhắm Mắt Cưới Luôn - Beautiful Wedding",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2083,7 +2083,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20260202-1/f1298ca10fe9c261029b8cee1238fde2.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -2097,23 +2097,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Nhắm Mắt Cưới Luôn - Beautiful Wedding",
+              "name": "Nhắm Mắt Cưới Luôn - Beautiful Wedding",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Nhắm Mắt Cưới Luôn - Beautiful Wedding",
+                  "name": "Nhắm Mắt Cưới Luôn - Beautiful Wedding",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Nhắm Mắt Cưới Luôn - Beautiful Wedding",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Nhắm Mắt Cưới Luôn - Beautiful Wedding",
+                          "name": "Nhắm Mắt Cưới Luôn - Beautiful Wedding",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20260202/LXtqGdD3/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2134,8 +2134,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Cơ Thể Của Cô Ấy - Her Body",
+          "name": "Cơ Thể Của Cô Ấy - Her Body",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2143,7 +2143,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20251009-1/adb9543b24d39ed8afc526d94cf21874.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -2157,23 +2157,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Cơ Thể Của Cô Ấy - Her Body",
+              "name": "Cơ Thể Của Cô Ấy - Her Body",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Cơ Thể Của Cô Ấy - Her Body",
+                  "name": "Cơ Thể Của Cô Ấy - Her Body",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Cơ Thể Của Cô Ấy - Her Body",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Cơ Thể Của Cô Ấy - Her Body",
+                          "name": "Cơ Thể Của Cô Ấy - Her Body",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20251009/7S7aXlhi/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2194,8 +2194,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Đôi Mắt Thiên Thần - Angel Eyes",
+          "name": "Đôi Mắt Thiên Thần - Angel Eyes",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2203,7 +2203,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20250602-1/ed56b2dc25311ef02c8ad726fcd96ea1.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -2217,23 +2217,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Đôi Mắt Thiên Thần - Angel Eyes",
+              "name": "Đôi Mắt Thiên Thần - Angel Eyes",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Đôi Mắt Thiên Thần - Angel Eyes",
+                  "name": "Đôi Mắt Thiên Thần - Angel Eyes",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Đôi Mắt Thiên Thần - Angel Eyes",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Đôi Mắt Thiên Thần - Angel Eyes",
+                          "name": "Đôi Mắt Thiên Thần - Angel Eyes",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20250603/PARKUpHg/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2254,8 +2254,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Nàng Thơ Lạc Chốn Thần Tiên - Adventures Into the Woods: A Sexy Musica",
+          "name": "Nàng Thơ Lạc Chốn Thần Tiên - Adventures Into the Woods: A Sexy Musica",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2263,7 +2263,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20250411-1/ec6187d565585cacc2c6da689ccd886d.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -2277,23 +2277,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Nàng Thơ Lạc Chốn Thần Tiên - Adventures Into the Woods: A Sexy Musica",
+              "name": "Nàng Thơ Lạc Chốn Thần Tiên - Adventures Into the Woods: A Sexy Musica",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Nàng Thơ Lạc Chốn Thần Tiên - Adventures Into the Woods: A Sexy Musica",
+                  "name": "Nàng Thơ Lạc Chốn Thần Tiên - Adventures Into the Woods: A Sexy Musica",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Nàng Thơ Lạc Chốn Thần Tiên - Adventures Into the Woods: A Sexy Musica",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Nàng Thơ Lạc Chốn Thần Tiên - Adventures Into the Woods: A Sexy Musica",
+                          "name": "Nàng Thơ Lạc Chốn Thần Tiên - Adventures Into the Woods: A Sexy Musica",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s4.phim1280.tv/20250411/yBRVz6lK/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2314,8 +2314,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Năm Mươi Sắc Thái: Đen - Fifty Shades Darker",
+          "name": "Năm Mươi Sắc Thái: Đen - Fifty Shades Darker",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2323,7 +2323,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20230913-1/8e6c37af7f2f69589804d27bc57bfe2b.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -2337,23 +2337,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Năm Mươi Sắc Thái: Đen - Fifty Shades Darker",
+              "name": "Năm Mươi Sắc Thái: Đen - Fifty Shades Darker",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Năm Mươi Sắc Thái: Đen - Fifty Shades Darker",
+                  "name": "Năm Mươi Sắc Thái: Đen - Fifty Shades Darker",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Năm Mươi Sắc Thái: Đen - Fifty Shades Darker",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Năm Mươi Sắc Thái: Đen - Fifty Shades Darker",
+                          "name": "Năm Mươi Sắc Thái: Đen - Fifty Shades Darker",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s2.phim1280.tv/20230913/koztKkP5/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2374,8 +2374,8 @@
           ]
         },
                 {
-          "id": "TroChoiVuongQuyenPhan8T6",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
+          "id": "Năm Mươi Sắc Thái: Tự Do - Fifty Shades Freed",
+          "name": "Năm Mươi Sắc Thái: Tự Do - Fifty Shades Freed",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2383,7 +2383,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
+            "url": "https://phimimg.com/upload/vod/20230913-1/78849e1bb433ef2d0681d69c2d652a80.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -2397,23 +2397,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T6",
-              "name": "TroChoiVuongQuyenPhan8T6",
+              "id": "src-Năm Mươi Sắc Thái: Tự Do - Fifty Shades Freed",
+              "name": "Năm Mươi Sắc Thái: Tự Do - Fifty Shades Freed",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T6",
-                  "name": "TroChoiVuongQuyenPhan8T6",
+                  "id": "ct-Năm Mươi Sắc Thái: Tự Do - Fifty Shades Freed",
+                  "name": "Năm Mươi Sắc Thái: Tự Do - Fifty Shades Freed",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T6",
+                      "id": "st-Năm Mươi Sắc Thái: Tự Do - Fifty Shades Freed",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
-                          "name": "TroChoiVuongQuyenPhan8T6",
+                          "id": "lnk-Năm Mươi Sắc Thái: Tự Do - Fifty Shades Freed",
+                          "name": "Năm Mươi Sắc Thái: Tự Do - Fifty Shades Freed",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
+                          "url": "https://s2.phim1280.tv/20230913/PwP6EqlO/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
