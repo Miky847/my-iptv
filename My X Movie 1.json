@@ -394,8 +394,8 @@
           ]
         },
         {
-          "id": "TroChoiVuongQuyenPhan7T7",
-          "name": "Trò Chơi Vương Quyền (Phần 7) - 7",
+          "id": "Nữ Bá Tước Đồi Bại - Countess Perverse",
+          "name": "Nữ Bá Tước Đồi Bại - Countess Perverse",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -403,7 +403,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT.jpg",
+            "url": "https://phimimg.com/upload/vod/20260124-1/09357419901d5c229fd0d539b79b38f4.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -417,23 +417,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan7T7",
-              "name": "TroChoiVuongQuyenPhan7T7",
+              "id": "src-Nữ Bá Tước Đồi Bại - Countess Perverse",
+              "name": "Nữ Bá Tước Đồi Bại - Countess Perverse",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan7T7",
-                  "name": "TroChoiVuongQuyenPhan7T7",
+                  "id": "ct-Nữ Bá Tước Đồi Bại - Countess Perverse",
+                  "name": "Nữ Bá Tước Đồi Bại - Countess Perverse",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan7T7",
+                      "id": "st-Nữ Bá Tước Đồi Bại - Countess Perverse",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan7T7",
-                          "name": "TroChoiVuongQuyenPhan7T7",
+                          "id": "lnk-Nữ Bá Tước Đồi Bại - Countess Perverse",
+                          "name": "Nữ Bá Tước Đồi Bại - Countess Perverse",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s3.phim1280.tv/20240730/Rdhiovoy/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20260125/oIcLMbK3/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -454,8 +454,1328 @@
           ]
         },
         {
-          "id": "TroChoiVuongQuyenPhan8T1-HD",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 1",
+          "id": "Giáo Viên Piano - The Piano Teacher",
+          "name": "Giáo Viên Piano - The Piano Teacher",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20251015-1/2dc5719d06ae68b108bbf72643441ea4.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Giáo Viên Piano - The Piano Teacher",
+              "name": "Giáo Viên Piano - The Piano Teacher",
+              "contents": [
+                {
+                  "id": "ct-Giáo Viên Piano - The Piano Teacher",
+                  "name": "Giáo Viên Piano - The Piano Teacher",
+                  "streams": [
+                    {
+                      "id": "st-Giáo Viên Piano - The Piano Teacher",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Giáo Viên Piano - The Piano Teacher",
+                          "name": "Giáo Viên Piano - The Piano Teacher",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20251015/G5MVmoJo/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Ngôi Sao Khiêu Dâm - Pleasure",
+          "name": "Ngôi Sao Khiêu Dâm - Pleasure",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250331-1/7321b85555ae46560e9551d8616dcb24.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Ngôi Sao Khiêu Dâm - Pleasure",
+              "name": "Ngôi Sao Khiêu Dâm - Pleasure",
+              "contents": [
+                {
+                  "id": "ct-Ngôi Sao Khiêu Dâm - Pleasure",
+                  "name": "Ngôi Sao Khiêu Dâm - Pleasure",
+                  "streams": [
+                    {
+                      "id": "st-Ngôi Sao Khiêu Dâm - Pleasure",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Ngôi Sao Khiêu Dâm - Pleasure",
+                          "name": "Ngôi Sao Khiêu Dâm - Pleasure",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s5.phim1280.tv/20250331/GJOoglEY/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Hoán Đổi Vợ Chồng - The Day of Swapping",
+          "name": "Hoán Đổi Vợ Chồng - The Day of Swapping",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20240724-1/26f3cd4a8b5e4ff91686ceefc56f870a.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Hoán Đổi Vợ Chồng - The Day of Swapping",
+              "name": "Hoán Đổi Vợ Chồng - The Day of Swapping",
+              "contents": [
+                {
+                  "id": "ct-Hoán Đổi Vợ Chồng - The Day of Swapping",
+                  "name": "Hoán Đổi Vợ Chồng - The Day of Swapping",
+                  "streams": [
+                    {
+                      "id": "st-Hoán Đổi Vợ Chồng - The Day of Swapping",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Hoán Đổi Vợ Chồng - The Day of Swapping",
+                          "name": "Hoán Đổi Vợ Chồng - The Day of Swapping",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240724/sYDb9vvk/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Đổi Vợ - My Friend's Wife",
+          "name": "Đổi Vợ - My Friend's Wife",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20240724-1/638bd9464ae6e382ed29011362ced732.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Đổi Vợ - My Friend's Wife",
+              "name": "Đổi Vợ - My Friend's Wife HD",
+              "contents": [
+                {
+                  "id": "ct-Đổi Vợ - My Friend's Wife",
+                  "name": "Đổi Vợ - My Friend's Wife",
+                  "streams": [
+                    {
+                      "id": "st-Đổi Vợ - My Friend's Wife",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Đổi Vợ - My Friend's Wife",
+                          "name": "Đổi Vợ - My Friend's Wife",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240724/PuSjAb6b/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Làm Tình Trên Xe - Motorpsycho Maniacs - Sex Terrorists on Wheels",
+          "name": "Làm Tình Trên Xe - Motorpsycho Maniacs - Sex Terrorists on Wheels",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20260312-1/80d0ed5830e68fe9faae1e69404a8744.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Làm Tình Trên Xe - Motorpsycho Maniacs - Sex Terrorists on Wheels",
+              "name": "Làm Tình Trên Xe - Motorpsycho Maniacs - Sex Terrorists on Wheels",
+              "contents": [
+                {
+                  "id": "ct-Làm Tình Trên Xe - Motorpsycho Maniacs - Sex Terrorists on Wheels",
+                  "name": "Làm Tình Trên Xe - Motorpsycho Maniacs - Sex Terrorists on Wheels",
+                  "streams": [
+                    {
+                      "id": "st-Làm Tình Trên Xe - Motorpsycho Maniacs - Sex Terrorists on Wheels",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Làm Tình Trên Xe - Motorpsycho Maniacs - Sex Terrorists on Wheels",
+                          "name": "Làm Tình Trên Xe - Motorpsycho Maniacs - Sex Terrorists on Wheels",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260320/0dj16noE/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Xuất Nhập Khẩu - Import/Export",
+          "name": "Xuất Nhập Khẩu - Import/Export",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20251015-1/15e268f0c10b48451fe60a2ca8d65c63.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Xuất Nhập Khẩu - Import/Export",
+              "name": "Xuất Nhập Khẩu - Import/Export",
+              "contents": [
+                {
+                  "id": "ct-Xuất Nhập Khẩu - Import/Export",
+                  "name": "Xuất Nhập Khẩu - Import/Export",
+                  "streams": [
+                    {
+                      "id": "st-Xuất Nhập Khẩu - Import/Export",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Xuất Nhập Khẩu - Import/Export",
+                          "name": "Xuất Nhập Khẩu - Import/Export",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20251015/tdBnAY5E/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Nhục Bồ Đoàn 1 - Sex and Zen",
+          "name": "Nhục Bồ Đoàn 1 - Sex and Zen",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20231020-1/f040c9e6db3273810a074e40f6f4e473.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Nhục Bồ Đoàn 1 - Sex and Zen",
+              "name": "Nhục Bồ Đoàn 1 - Sex and Zen",
+              "contents": [
+                {
+                  "id": "ct-Nhục Bồ Đoàn 1 - Sex and Zen",
+                  "name": "Nhục Bồ Đoàn 1 - Sex and Zen",
+                  "streams": [
+                    {
+                      "id": "st-Nhục Bồ Đoàn 1 - Sex and Zen",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Nhục Bồ Đoàn 1 - Sex and Zen",
+                          "name": "Nhục Bồ Đoàn 1 - Sex and Zen",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s1.phim1280.tv/20231021/bwqdqeix/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Nhục Bồ Đoàn 4: Cực Lạc Bảo Giám - 3-D Sex and Zen: Extreme Ecstasy",
+          "name": "Nhục Bồ Đoàn 4: Cực Lạc Bảo Giám - 3-D Sex and Zen: Extreme Ecstasy",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20231018-1/e8827ca07eaf7381c9943e1f0b15f495.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Nhục Bồ Đoàn 4: Cực Lạc Bảo Giám - 3-D Sex and Zen: Extreme Ecstasy",
+              "name": "Nhục Bồ Đoàn 4: Cực Lạc Bảo Giám - 3-D Sex and Zen: Extreme Ecstasy",
+              "contents": [
+                {
+                  "id": "ct-Nhục Bồ Đoàn 4: Cực Lạc Bảo Giám - 3-D Sex and Zen: Extreme Ecstasy",
+                  "name": "Nhục Bồ Đoàn 4: Cực Lạc Bảo Giám - 3-D Sex and Zen: Extreme Ecstasy",
+                  "streams": [
+                    {
+                      "id": "st-Nhục Bồ Đoàn 4: Cực Lạc Bảo Giám - 3-D Sex and Zen: Extreme Ecstasy",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Nhục Bồ Đoàn 4: Cực Lạc Bảo Giám - 3-D Sex and Zen: Extreme Ecstasy",
+                          "name": "Nhục Bồ Đoàn 4: Cực Lạc Bảo Giám - 3-D Sex and Zen: Extreme Ecstasy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240330/k9t5MaMl/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+          {
+          "id": "Mãn Thanh Cấm Cung Kỳ Án (Thanh Cung 13 Triều) - Sex and the Emperor",
+          "name": "Mãn Thanh Cấm Cung Kỳ Án (Thanh Cung 13 Triều) - Sex and the Emperor",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250416-1/29e55e17c41e1b30e35d97cd654803eb.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Mãn Thanh Cấm Cung Kỳ Án (Thanh Cung 13 Triều) - Sex and the Emperor",
+              "name": "Mãn Thanh Cấm Cung Kỳ Án (Thanh Cung 13 Triều) - Sex and the Emperor",
+              "contents": [
+                {
+                  "id": "ct-Mãn Thanh Cấm Cung Kỳ Án (Thanh Cung 13 Triều) - Sex and the Emperor",
+                  "name": "Mãn Thanh Cấm Cung Kỳ Án (Thanh Cung 13 Triều) - Sex and the Emperor",
+                  "streams": [
+                    {
+                      "id": "st-Mãn Thanh Cấm Cung Kỳ Án (Thanh Cung 13 Triều) - Sex and the Emperor",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Mãn Thanh Cấm Cung Kỳ Án (Thanh Cung 13 Triều) - Sex and the Emperor",
+                          "name": "Mãn Thanh Cấm Cung Kỳ Án (Thanh Cung 13 Triều) - Sex and the Emperor",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s5.phim1280.tv/20250416/QLOkBMBZ/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+          {
+          "id": "Người Đàn Bà Cuồn Vọng - Indecent Woman",
+          "name": "Người Đàn Bà Cuồn Vọng - Indecent Woman",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250514-1/7b9dd7b2a116c6ee104871f41deba7a7.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Người Đàn Bà Cuồn Vọng - Indecent Woman",
+              "name": "Người Đàn Bà Cuồn Vọng - Indecent Woman",
+              "contents": [
+                {
+                  "id": "ct-Người Đàn Bà Cuồn Vọng - Indecent Woman",
+                  "name": "Người Đàn Bà Cuồn Vọng - Indecent Woman",
+                  "streams": [
+                    {
+                      "id": "st-Người Đàn Bà Cuồn Vọng - Indecent Woman",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Người Đàn Bà Cuồn Vọng - Indecent Woman",
+                          "name": "Người Đàn Bà Cuồn Vọng - Indecent Woman",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s5.phim1280.tv/20250514/wbftqWSq/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Phịch Thủ - Felicity",
+          "name": "Phịch Thủ - Felicity",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250521-1/eccd505fcb63ca26249a5a095d17256f.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Phịch Thủ - Felicity",
+              "name": "Phịch Thủ - Felicity",
+              "contents": [
+                {
+                  "id": "ct-Phịch Thủ - Felicity",
+                  "name": "Phịch Thủ - Felicity",
+                  "streams": [
+                    {
+                      "id": "st-Phịch Thủ - Felicity",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Phịch Thủ - Felicity",
+                          "name": "Phịch Thủ - Felicity",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s5.phim1280.tv/20250522/2qMK9I5i/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Huyết Dụ Sát Nhân - Red to Kill",
+          "name": "Huyết Dụ Sát Nhân - Red to Kill",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250526-1/8604d761c3eec2f0fba01a17fcc71cc9.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Huyết Dụ Sát Nhân - Red to Kill",
+              "name": "Huyết Dụ Sát Nhân - Red to Kill",
+              "contents": [
+                {
+                  "id": "ct-Huyết Dụ Sát Nhân - Red to Kill",
+                  "name": "Huyết Dụ Sát Nhân - Red to Kill",
+                  "streams": [
+                    {
+                      "id": "st-Huyết Dụ Sát Nhân - Red to Kill",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Huyết Dụ Sát Nhân - Red to Kill",
+                          "name": "Huyết Dụ Sát Nhân - Red to Kill",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20250526/vUpCy9c8/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Lan Quế Phường - Lan Kwai Fong",
+          "name": "Lan Quế Phường - Lan Kwai Fong",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250614-1/b98382ec2781d977cc9a91c657b1348f.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Lan Quế Phường - Lan Kwai Fong",
+              "name": "Lan Quế Phường - Lan Kwai Fong",
+              "contents": [
+                {
+                  "id": "ct-Lan Quế Phường - Lan Kwai Fong",
+                  "name": "Lan Quế Phường - Lan Kwai Fong",
+                  "streams": [
+                    {
+                      "id": "st-Lan Quế Phường - Lan Kwai Fong",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Lan Quế Phường - Lan Kwai Fong",
+                          "name": "Lan Quế Phường - Lan Kwai Fong",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20250614/ryXQDwJT/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Lan Quế Phường 2 - Lan Kwai Fong 2",
+          "name": "Lan Quế Phường 2 - Lan Kwai Fong 2",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250614-1/54c996f14c8ff1f7a3923d48d6b0f5a6.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Lan Quế Phường 2 - Lan Kwai Fong 2",
+              "name": "Lan Quế Phường 2 - Lan Kwai Fong 2",
+              "contents": [
+                {
+                  "id": "ct-Lan Quế Phường 2 - Lan Kwai Fong 2",
+                  "name": "Lan Quế Phường 2 - Lan Kwai Fong 2",
+                  "streams": [
+                    {
+                      "id": "st-Lan Quế Phường 2 - Lan Kwai Fong 2",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Lan Quế Phường 2 - Lan Kwai Fong 2",
+                          "name": "Lan Quế Phường 2 - Lan Kwai Fong 2",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20250614/E8TZdtFA/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Lan Quế Phường 3 - Lan Kwai Fong 3",
+          "name": "Lan Quế Phường 3 - Lan Kwai Fong 3",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250614-1/3d9f669bee1ce4957d70bcb77512c8ee.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Lan Quế Phường 3 - Lan Kwai Fong 3",
+              "name": "Lan Quế Phường 3 - Lan Kwai Fong 3",
+              "contents": [
+                {
+                  "id": "ct-Lan Quế Phường 3 - Lan Kwai Fong 3",
+                  "name": "Lan Quế Phường 3 - Lan Kwai Fong 3",
+                  "streams": [
+                    {
+                      "id": "st-Lan Quế Phường 3 - Lan Kwai Fong 3",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Lan Quế Phường 3 - Lan Kwai Fong 3",
+                          "name": "Lan Quế Phường 3 - Lan Kwai Fong 3",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20250614/mSh4wPUu/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Cô Vợ Phù Thủy - Bewitched",
+          "name": "Cô Vợ Phù Thủy - Bewitched",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20251009-1/e8b4c73f943f81e8d468659fc9db757a.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Cô Vợ Phù Thủy - Bewitched",
+              "name": "Cô Vợ Phù Thủy - Bewitched",
+              "contents": [
+                {
+                  "id": "ct-Cô Vợ Phù Thủy - Bewitched",
+                  "name": "Cô Vợ Phù Thủy - Bewitched",
+                  "streams": [
+                    {
+                      "id": "st-Cô Vợ Phù Thủy - Bewitched",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Cô Vợ Phù Thủy - Bewitched",
+                          "name": "Cô Vợ Phù Thủy - Bewitched",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20251009/kVjmyxzM/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Đạo Đức Chết Người - Deadly Virtues: Love. Honour. Obey.",
+          "name": "Đạo Đức Chết Người - Deadly Virtues: Love. Honour. Obey.",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20260213-1/df660c984ce69410946b462ecbbb6734.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Đạo Đức Chết Người - Deadly Virtues: Love. Honour. Obey.",
+              "name": "Đạo Đức Chết Người - Deadly Virtues: Love. Honour. Obey.",
+              "contents": [
+                {
+                  "id": "ct-Đạo Đức Chết Người - Deadly Virtues: Love. Honour. Obey.",
+                  "name": "Đạo Đức Chết Người - Deadly Virtues: Love. Honour. Obey.",
+                  "streams": [
+                    {
+                      "id": "st-Đạo Đức Chết Người - Deadly Virtues: Love. Honour. Obey.",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Đạo Đức Chết Người - Deadly Virtues: Love. Honour. Obey.",
+                          "name": "Đạo Đức Chết Người - Deadly Virtues: Love. Honour. Obey.",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260214/ECfaPtVb/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Nữ thần tình yêu - Goddess of Love",
+          "name": "Nữ thần tình yêu - Goddess of Love",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20260318-1/fcd717f8e9b3e5d9d28a08ceeb35e825.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Nữ thần tình yêu - Goddess of Love",
+              "name": "Nữ thần tình yêu - Goddess of Love",
+              "contents": [
+                {
+                  "id": "ct-Nữ thần tình yêu - Goddess of Love",
+                  "name": "Nữ thần tình yêu - Goddess of Love",
+                  "streams": [
+                    {
+                      "id": "st-Nữ thần tình yêu - Goddess of Love",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Nữ thần tình yêu - Goddess of Love",
+                          "name": "Nữ thần tình yêu - Goddess of Love",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20260319/f3Ho6yXl/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Vũ Công Xinh Đẹp - The Night Of Open Sex",
+          "name": "Vũ Công Xinh Đẹp - The Night Of Open Sex",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20251015-1/2e945831be89114f3e2927f6987a1d24.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Vũ Công Xinh Đẹp - The Night Of Open Sex",
+              "name": "Vũ Công Xinh Đẹp - The Night Of Open Sex",
+              "contents": [
+                {
+                  "id": "ct-Vũ Công Xinh Đẹp - The Night Of Open Sex",
+                  "name": "Vũ Công Xinh Đẹp - The Night Of Open Sex",
+                  "streams": [
+                    {
+                      "id": "st-Vũ Công Xinh Đẹp - The Night Of Open Sex",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Vũ Công Xinh Đẹp - The Night Of Open Sex",
+                          "name": "Vũ Công Xinh Đẹp - The Night Of Open Sex",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20251015/UkI9IEai/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Sự Cám Dỗ - Nasha",
+          "name": "Sự Cám Dỗ - Nasha",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250609-1/60fb9e94c55240ba1e4eeec78d93b03d.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Sự Cám Dỗ - Nasha",
+              "name": "Sự Cám Dỗ - Nasha",
+              "contents": [
+                {
+                  "id": "ct-Sự Cám Dỗ - Nasha",
+                  "name": "Sự Cám Dỗ - Nasha",
+                  "streams": [
+                    {
+                      "id": "st-Sự Cám Dỗ - Nasha",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Sự Cám Dỗ - Nasha",
+                          "name": "Sự Cám Dỗ - Nasha",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20250609/SlErziEY/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Hồ Bơi Vô Cực - Infinity Pool",
+          "name": "Hồ Bơi Vô Cực - Infinity Pool",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20230911-1/d209e38463d82320e580e13fe571a2df.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Hồ Bơi Vô Cực - Infinity Pool",
+              "name": "Hồ Bơi Vô Cực - Infinity Pool",
+              "contents": [
+                {
+                  "id": "ct-Hồ Bơi Vô Cực - Infinity Pool",
+                  "name": "Hồ Bơi Vô Cực - Infinity Pool",
+                  "streams": [
+                    {
+                      "id": "st-Hồ Bơi Vô Cực - Infinity Pool",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Hồ Bơi Vô Cực - Infinity Pool",
+                          "name": "Hồ Bơi Vô Cực - Infinity Pool",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s3.phim1280.tv/20240619/agfVfvjJ/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+          "name": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://phimimg.com/upload/vod/20250614-1/6698157d21393e0523cff88e22d24311.jpg",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "On Air",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+              "name": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+              "contents": [
+                {
+                  "id": "ct-Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+                  "name": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+                  "streams": [
+                    {
+                      "id": "st-Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+                          "name": "Đằng sau cổng tu viện - The True Story of the Nun of Monza",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://s6.kkphimplayer6.com/20250614/scib0Qns/index.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": ""
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+                {
+          "id": "TroChoiVuongQuyenPhan8T6",
+          "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -477,23 +1797,23 @@
           ],
           "sources": [
             {
-              "id": "src-TroChoiVuongQuyenPhan8T1",
-              "name": "TroChoiVuongQuyenPhan8T1",
+              "id": "src-TroChoiVuongQuyenPhan8T6",
+              "name": "TroChoiVuongQuyenPhan8T6",
               "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T1",
-                  "name": "TroChoiVuongQuyenPhan8T1",
+                  "id": "ct-TroChoiVuongQuyenPhan8T6",
+                  "name": "TroChoiVuongQuyenPhan8T6",
                   "streams": [
                     {
-                      "id": "st-TroChoiVuongQuyenPhan8T1",
+                      "id": "st-TroChoiVuongQuyenPhan8T6",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T1",
-                          "name": "TroChoiVuongQuyenPhan8T1",
+                          "id": "lnk-TroChoiVuongQuyenPhan8T6",
+                          "name": "TroChoiVuongQuyenPhan8T6",
                           "type": "hls",
                           "default": true,
-                          "url": "https://s3.phim1280.tv/20240730/hCuhDYMm/index.m3u8",
+                          "url": "https://s6.kkphimplayer6.com/20260219/Vcz6FMQR/index.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -513,247 +1833,7 @@
             }
           ]
         },
-        {
-          "id": "TroChoiVuongQuyenPhan8T2-hd",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 2",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "On Air",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-TroChoiVuongQuyenPhan8T2",
-              "name": "VTV3 HD",
-              "contents": [
                 {
-                  "id": "ct-TroChoiVuongQuyenPhan8T2",
-                  "name": "TroChoiVuongQuyenPhan8T2",
-                  "streams": [
-                    {
-                      "id": "st-TroChoiVuongQuyenPhan8T2",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T2",
-                          "name": "TroChoiVuongQuyenPhan8T2",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://s3.phim1280.tv/20240730/WUYOWwC1/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": ""
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "TroChoiVuongQuyenPhan8T3-hd",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 3",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "On Air",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-TroChoiVuongQuyenPhan8T3",
-              "name": "TroChoiVuongQuyenPhan8T3",
-              "contents": [
-                {
-                  "id": "ct-TroChoiVuongQuyenPhan8T3",
-                  "name": "VTV4",
-                  "streams": [
-                    {
-                      "id": "st-TroChoiVuongQuyenPhan8T3",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T3",
-                          "name": "TroChoiVuongQuyenPhan8T3",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://s3.phim1280.tv/20240730/bZvDRc0k/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": ""
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "TroChoiVuongQuyenPhan8T4-hd",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 4",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "On Air",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-TroChoiVuongQuyenPhan8T4",
-              "name": "TroChoiVuongQuyenPhan8T4 HD",
-              "contents": [
-                {
-                  "id": "ct-TroChoiVuongQuyenPhan8T4",
-                  "name": "TroChoiVuongQuyenPhan8T4",
-                  "streams": [
-                    {
-                      "id": "st-TroChoiVuongQuyenPhan8T4",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T4",
-                          "name": "TroChoiVuongQuyenPhan8T4",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://s3.phim1280.tv/20240730/9OzRpTSr/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": ""
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "TroChoiVuongQuyenPhan8T5",
-          "name": "Trò Chơi Vương Quyền (Phần 8) - 5",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Miky847/MovieLogo/refs/heads/main/GOT1.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "On Air",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-TroChoiVuongQuyenPhan8T5",
-              "name": "TroChoiVuongQuyenPhan8T5",
-              "contents": [
-                {
-                  "id": "ct-TroChoiVuongQuyenPhan8T5",
-                  "name": "TroChoiVuongQuyenPhan8T5",
-                  "streams": [
-                    {
-                      "id": "st-TroChoiVuongQuyenPhan8T5",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-TroChoiVuongQuyenPhan8T5",
-                          "name": "TroChoiVuongQuyenPhan8T5",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://s3.phim1280.tv/20240730/Vtcjx71z/index.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": ""
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "TroChoiVuongQuyenPhan8T6",
           "name": "Trò Chơi Vương Quyền (Phần 8) - 6",
           "type": "single",
